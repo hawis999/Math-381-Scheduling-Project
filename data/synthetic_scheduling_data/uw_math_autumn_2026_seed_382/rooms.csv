@@ -1,0 +1,16 @@
+room_id,building,room_number,capacity,board_type,has_projector,is_lab
+R_KNE_210,KNE,210,240,blackboard,1,0
+R_KNE_220,KNE,220,240,blackboard,1,0
+R_GUG_220,GUG,220,240,whiteboard,1,0
+R_SMI_120,SMI,120,240,whiteboard,1,0
+R_SAV_260,SAV,260,170,whiteboard,1,0
+R_AND_205,AND,205,150,whiteboard,1,0
+R_OTB_014,OTB,014,100,whiteboard,1,0
+R_MUE_153,MUE,153,90,blackboard,1,0
+R_SMI_102,SMI,102,80,whiteboard,1,0
+R_MGH_389,MGH,389,70,whiteboard,1,0
+R_LOW_206,LOW,206,50,blackboard,1,0
+R_MEB_248,MEB,248,45,blackboard,1,0
+R_PDL_C038,PDL,C038,35,blackboard,1,0
+R_PDL_C401,PDL,C401,25,blackboard,1,0
+R_LOW_113,LOW,113,20,whiteboard,1,0

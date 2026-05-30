@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.DS_Store
+.claude/
+.vscode/
+
+.venv/
+venv/
+env/
+
+*.gif
+*.mp4
+*.mov
+*.log

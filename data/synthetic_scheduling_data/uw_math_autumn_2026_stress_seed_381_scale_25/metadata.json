@@ -1,0 +1,26 @@
+{
+  "name": "uw_math_autumn_2026_stress_seed_381_scale_25",
+  "seed": 381,
+  "source": "UW Math Autumn 2026 scrape, lecture-like sections only",
+  "time_policy": "Fixed randomized times generated before solving",
+  "stress": true,
+  "scale": 25,
+  "base_sections": 59,
+  "generated_sections": 1475,
+  "generated_professors": 254,
+  "required_math_course_numbers": [
+    "111",
+    "120",
+    "124",
+    "125",
+    "126",
+    "207",
+    "208",
+    "300",
+    "327",
+    "381",
+    "394",
+    "402",
+    "407"
+  ]
+}

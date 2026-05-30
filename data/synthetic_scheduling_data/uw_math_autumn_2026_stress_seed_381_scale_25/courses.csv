@@ -1,0 +1,1476 @@
+course_id,course_code,course_title,is_required,priority,enrollment,required_board,needs_projector,needs_lab,credits,timeslot_id,room_id,course_tags
+C001,MATH 102-A01,Algebra,0,2,40,any,0,0,5,T_MWF_1230_1320,R_MEB_248,service;algebra;precalculus
+C002,MATH 103-A01,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_F_1530_1720,R_LOW_206,service;precalculus
+C003,MATH 111-A01,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;algebra;applications
+C004,MATH 111-B01,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1300_1420,R_GUG_220,service;algebra;applications
+C005,MATH 112-A01,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1030_1120,R_OTB_014,service;calculus;optimization
+C006,MATH 120-A01,Precalculus,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;precalculus;calculus
+C007,MATH 120-B01,Precalculus,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;precalculus;calculus
+C008,MATH 124-A01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus
+C009,MATH 124-B01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C010,MATH 124-C01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C011,MATH 124-D01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;calculus
+C012,MATH 124-E01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_GUG_220,service;calculus
+C013,MATH 124-F01,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;calculus
+C014,MATH 125-A01,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C015,MATH 125-B01,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C016,MATH 125-C01,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1430_1550,R_KNE_210,service;calculus
+C017,MATH 126-A01,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus;geometry
+C018,MATH 126-B01,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus;geometry
+C019,MATH 126-C01,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus;geometry
+C020,MATH 126-D01,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_GUG_220,service;calculus;geometry
+C021,MATH 134-A01,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_TTH_1000_1120,R_MEB_248,calculus;honors;linear_algebra
+C022,MATH 200-A01,Discrete Mathematics I,0,2,300,any,1,0,5,T_TTH_1000_1120,R_KNE_210,combinatorics;probability;number_theory
+C023,MATH 207-A01,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1430_1520,R_SMI_120,differential_equations;applied_math
+C024,MATH 207-C01,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1030_1120,R_GUG_220,differential_equations;applied_math
+C025,MATH 207-D01,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1430_1520,R_SMI_102,differential_equations;applied_math
+C026,MATH 208-A01,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C027,MATH 208-B01,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1330_1420,R_KNE_210,linear_algebra;applied_math
+C028,MATH 209-A01,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1600_1720,R_MUE_153,differential_equations;pde;analysis
+C029,MATH 224-A01,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1130_1250,R_KNE_210,calculus;geometry;analysis
+C030,MATH 224-B01,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_0830_0950,R_SMI_102,calculus;geometry;analysis
+C031,MATH 300-A01,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1130_1220,R_SMI_102,proofs;number_theory;combinatorics
+C032,MATH 300-B01,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1430_1520,R_SMI_102,proofs;number_theory;combinatorics
+C033,MATH 327-A01,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_0930_1020,R_AND_205,analysis;real_analysis
+C034,MATH 334-A01,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1230_1320,R_MEB_248,analysis;pde;complex_analysis
+C035,MATH 342-A01,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1530_1620,R_MEB_248,combinatorics;number_theory;geometry;probability
+C036,MATH 381-A01,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1230_1320,R_MUE_153,combinatorics;graph_theory;optimization
+C037,MATH 394-A01,Probability I,1,10,170,any,1,0,4,T_MWF_1430_1520,R_KNE_210,probability;statistics
+C038,MATH 398-B01,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_PDL_C401,general_math;seminar
+C039,MATH 402-A01,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1130_1250,R_GUG_220,algebra;number_theory
+C040,MATH 407-A01,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1430_1520,R_GUG_220,optimization;linear_algebra
+C041,MATH 424-A01,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_SMI_102,analysis;real_analysis
+C042,MATH 427-A01,Complex Analysis,0,2,50,any,0,0,4,T_TTH_0830_0950,R_SMI_102,complex_analysis;analysis
+C043,MATH 441-A01,Topology,0,2,90,any,1,0,4,T_MWF_1530_1620,R_SAV_260,topology;geometry
+C044,MATH 444-A01,Geometries I,0,2,50,any,0,0,4,T_F_1530_1720,R_MGH_389,geometry;education
+C045,MATH 461-A01,Combinatorial Theory I,0,2,80,any,1,0,4,T_MW_1430_1550,R_MUE_153,combinatorics;graph_theory
+C046,MATH 491-A01,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1300_1420,R_LOW_206,probability;stochastic_processes
+C047,MATH 504-A01,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1130_1250,R_LOW_206,algebra;algebraic_geometry
+C048,MATH 507-A01,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1000_1120,R_PDL_C401,algebra;representation_theory
+C049,MATH 514-A01,Network Optimization,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,optimization;combinatorics;graph_theory
+C050,MATH 521-A01,Advanced Probability,0,2,15,any,0,0,3,T_MW_1000_1120,R_PDL_C401,probability;analysis
+C051,MATH 526-A01,Real Analysis,0,2,20,any,0,0,5,T_MWF_1530_1620,R_MEB_248,analysis;real_analysis
+C052,MATH 534-A01,Complex Analysis,0,2,25,any,0,0,5,T_F_1530_1720,R_PDL_C401,complex_analysis;analysis
+C053,MATH 544-A01,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_W_1500_1650,R_MGH_389,topology;geometry
+C054,MATH 547-A01,Geometric Structures,0,2,25,any,0,0,3,T_MW_1000_1120,R_PDL_C038,geometry;differential_geometry
+C055,MATH 550-D01,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,geometry;seminar
+C056,MATH 580-B01,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_SMI_102,general_math;seminar
+C057,MATH 581-C01,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MWF_1330_1420,R_MEB_248,pde;inverse_problems
+C058,MATH 584-A01,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1130_1250,R_PDL_C038,numerical_analysis;linear_algebra
+C059,MATH 590-A01,Seminar in Probability,0,2,40,any,0,0,3,T_MWF_1430_1520,R_SMI_102,probability;seminar
+C060,MATH 102-A02,Algebra,0,2,40,any,0,0,5,T_MWF_1330_1420,R_MGH_389,service;algebra;precalculus
+C061,MATH 103-A02,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_TTH_1000_1120,R_SMI_102,service;precalculus
+C062,MATH 111-A02,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;algebra;applications
+C063,MATH 111-B02,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;algebra;applications
+C064,MATH 112-A02,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_0830_0950,R_SAV_260,service;calculus;optimization
+C065,MATH 120-A02,Precalculus,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;precalculus;calculus
+C066,MATH 120-B02,Precalculus,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;precalculus;calculus
+C067,MATH 124-A02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C068,MATH 124-B02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus
+C069,MATH 124-C02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus
+C070,MATH 124-D02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C071,MATH 124-E02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_220,service;calculus
+C072,MATH 124-F02,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C073,MATH 125-A02,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus
+C074,MATH 125-B02,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C075,MATH 125-C02,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;calculus
+C076,MATH 126-A02,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;calculus;geometry
+C077,MATH 126-B02,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C078,MATH 126-C02,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus;geometry
+C079,MATH 126-D02,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;calculus;geometry
+C080,MATH 134-A02,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_0830_0920,R_MGH_389,calculus;honors;linear_algebra
+C081,MATH 200-A02,Discrete Mathematics I,0,2,300,any,1,0,5,T_TTH_1300_1420,R_KNE_210,combinatorics;probability;number_theory
+C082,MATH 207-A02,Introduction to Differential Equations,1,10,230,any,1,0,4,T_TTH_1430_1550,R_KNE_220,differential_equations;applied_math
+C083,MATH 207-C02,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MW_1000_1120,R_KNE_210,differential_equations;applied_math
+C084,MATH 207-D02,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,differential_equations;applied_math
+C085,MATH 208-A02,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1030_1120,R_KNE_210,linear_algebra;applied_math
+C086,MATH 208-B02,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1330_1420,R_KNE_210,linear_algebra;applied_math
+C087,MATH 209-A02,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MGH_389,differential_equations;pde;analysis
+C088,MATH 224-A02,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_1530_1620,R_KNE_210,calculus;geometry;analysis
+C089,MATH 224-B02,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1330_1420,R_MUE_153,calculus;geometry;analysis
+C090,MATH 300-A02,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1300_1420,R_OTB_014,proofs;number_theory;combinatorics
+C091,MATH 300-B02,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_0830_0950,R_SMI_102,proofs;number_theory;combinatorics
+C092,MATH 327-A02,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_0930_1020,R_SMI_102,analysis;real_analysis
+C093,MATH 334-A02,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_0930_1020,R_SMI_102,analysis;pde;complex_analysis
+C094,MATH 342-A02,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_0930_1020,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C095,MATH 381-A02,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1130_1250,R_SMI_102,combinatorics;graph_theory;optimization
+C096,MATH 394-A02,Probability I,1,10,170,any,1,0,4,T_TTH_0830_0950,R_GUG_220,probability;statistics
+C097,MATH 398-B02,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_1230_1320,R_LOW_113,general_math;seminar
+C098,MATH 402-A02,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_F_1530_1720,R_OTB_014,algebra;number_theory
+C099,MATH 407-A02,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1300_1420,R_SAV_260,optimization;linear_algebra
+C100,MATH 424-A02,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MGH_389,analysis;real_analysis
+C101,MATH 427-A02,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,complex_analysis;analysis
+C102,MATH 441-A02,Topology,0,2,90,any,1,0,4,T_MWF_0930_1020,R_OTB_014,topology;geometry
+C103,MATH 444-A02,Geometries I,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MUE_153,geometry;education
+C104,MATH 461-A02,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1130_1250,R_OTB_014,combinatorics;graph_theory
+C105,MATH 491-A02,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1030_1120,R_MEB_248,probability;stochastic_processes
+C106,MATH 504-A02,Modern Algebra,0,2,35,any,0,0,5,T_F_1530_1720,R_PDL_C038,algebra;algebraic_geometry
+C107,MATH 507-A02,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C038,algebra;representation_theory
+C108,MATH 514-A02,Network Optimization,0,2,20,any,0,0,3,T_MW_1000_1120,R_LOW_113,optimization;combinatorics;graph_theory
+C109,MATH 521-A02,Advanced Probability,0,2,15,any,0,0,3,T_F_1530_1720,R_LOW_113,probability;analysis
+C110,MATH 526-A02,Real Analysis,0,2,20,any,0,0,5,T_MW_1430_1550,R_PDL_C038,analysis;real_analysis
+C111,MATH 534-A02,Complex Analysis,0,2,25,any,0,0,5,T_TTH_0830_0950,R_LOW_206,complex_analysis;analysis
+C112,MATH 544-A02,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1600_1720,R_PDL_C038,topology;geometry
+C113,MATH 547-A02,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1000_1120,R_PDL_C038,geometry;differential_geometry
+C114,MATH 550-D02,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1330_1420,R_LOW_113,geometry;seminar
+C115,MATH 580-B02,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_MGH_389,general_math;seminar
+C116,MATH 581-C02,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_F_1530_1720,R_LOW_206,pde;inverse_problems
+C117,MATH 584-A02,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1430_1550,R_MEB_248,numerical_analysis;linear_algebra
+C118,MATH 590-A02,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1000_1120,R_LOW_206,probability;seminar
+C119,MATH 102-A03,Algebra,0,2,40,any,0,0,5,T_W_1500_1650,R_MEB_248,service;algebra;precalculus
+C120,MATH 103-A03,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1430_1520,R_MEB_248,service;precalculus
+C121,MATH 111-A03,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;algebra;applications
+C122,MATH 111-B03,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;algebra;applications
+C123,MATH 112-A03,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1430_1520,R_OTB_014,service;calculus;optimization
+C124,MATH 120-A03,Precalculus,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;precalculus;calculus
+C125,MATH 120-B03,Precalculus,1,10,240,any,1,0,5,T_F_1530_1720,R_KNE_220,service;precalculus;calculus
+C126,MATH 124-A03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C127,MATH 124-B03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_SMI_120,service;calculus
+C128,MATH 124-C03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C129,MATH 124-D03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus
+C130,MATH 124-E03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_SMI_120,service;calculus
+C131,MATH 124-F03,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C132,MATH 125-A03,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C133,MATH 125-B03,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C134,MATH 125-C03,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C135,MATH 126-A03,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus;geometry
+C136,MATH 126-B03,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus;geometry
+C137,MATH 126-C03,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;calculus;geometry
+C138,MATH 126-D03,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;calculus;geometry
+C139,MATH 134-A03,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1130_1220,R_MEB_248,calculus;honors;linear_algebra
+C140,MATH 200-A03,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1130_1220,R_KNE_210,combinatorics;probability;number_theory
+C141,MATH 207-A03,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1530_1620,R_KNE_210,differential_equations;applied_math
+C142,MATH 207-C03,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MW_1430_1550,R_SMI_120,differential_equations;applied_math
+C143,MATH 207-D03,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1130_1220,R_LOW_206,differential_equations;applied_math
+C144,MATH 208-A03,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C145,MATH 208-B03,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1300_1420,R_KNE_210,linear_algebra;applied_math
+C146,MATH 209-A03,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1000_1120,R_MUE_153,differential_equations;pde;analysis
+C147,MATH 224-A03,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_1430_1520,R_KNE_210,calculus;geometry;analysis
+C148,MATH 224-B03,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MW_1000_1120,R_SMI_102,calculus;geometry;analysis
+C149,MATH 300-A03,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1000_1120,R_MUE_153,proofs;number_theory;combinatorics
+C150,MATH 300-B03,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1300_1420,R_OTB_014,proofs;number_theory;combinatorics
+C151,MATH 327-A03,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1130_1220,R_MUE_153,analysis;real_analysis
+C152,MATH 334-A03,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MW_1000_1120,R_SMI_102,analysis;pde;complex_analysis
+C153,MATH 342-A03,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1230_1320,R_LOW_206,combinatorics;number_theory;geometry;probability
+C154,MATH 381-A03,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1130_1250,R_OTB_014,combinatorics;graph_theory;optimization
+C155,MATH 394-A03,Probability I,1,10,170,any,1,0,4,T_TTH_1300_1420,R_GUG_220,probability;statistics
+C156,MATH 398-B03,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_PDL_C401,general_math;seminar
+C157,MATH 402-A03,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1430_1520,R_SAV_260,algebra;number_theory
+C158,MATH 407-A03,Linear Optimization,1,10,150,any,1,0,4,T_MWF_0830_0920,R_KNE_210,optimization;linear_algebra
+C159,MATH 424-A03,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MGH_389,analysis;real_analysis
+C160,MATH 427-A03,Complex Analysis,0,2,50,any,0,0,4,T_MWF_0930_1020,R_MGH_389,complex_analysis;analysis
+C161,MATH 441-A03,Topology,0,2,90,any,1,0,4,T_MWF_1130_1220,R_AND_205,topology;geometry
+C162,MATH 444-A03,Geometries I,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MUE_153,geometry;education
+C163,MATH 461-A03,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1230_1320,R_OTB_014,combinatorics;graph_theory
+C164,MATH 491-A03,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1130_1250,R_SMI_102,probability;stochastic_processes
+C165,MATH 504-A03,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1300_1420,R_LOW_206,algebra;algebraic_geometry
+C166,MATH 507-A03,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1300_1420,R_LOW_206,algebra;representation_theory
+C167,MATH 514-A03,Network Optimization,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,optimization;combinatorics;graph_theory
+C168,MATH 521-A03,Advanced Probability,0,2,15,any,0,0,3,T_W_1500_1650,R_MEB_248,probability;analysis
+C169,MATH 526-A03,Real Analysis,0,2,20,any,0,0,5,T_TTH_1300_1420,R_MEB_248,analysis;real_analysis
+C170,MATH 534-A03,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1600_1720,R_PDL_C401,complex_analysis;analysis
+C171,MATH 544-A03,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_0830_0950,R_LOW_206,topology;geometry
+C172,MATH 547-A03,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,geometry;differential_geometry
+C173,MATH 550-D03,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1000_1120,R_PDL_C038,geometry;seminar
+C174,MATH 580-B03,Departmental Colloquium,0,2,60,any,0,0,2,T_MWF_1330_1420,R_MUE_153,general_math;seminar
+C175,MATH 581-C03,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MWF_1330_1420,R_PDL_C401,pde;inverse_problems
+C176,MATH 584-A03,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1600_1720,R_LOW_206,numerical_analysis;linear_algebra
+C177,MATH 590-A03,Seminar in Probability,0,2,40,any,0,0,3,T_W_1500_1650,R_MGH_389,probability;seminar
+C178,MATH 102-A04,Algebra,0,2,40,any,0,0,5,T_MWF_1030_1120,R_SMI_102,service;algebra;precalculus
+C179,MATH 103-A04,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1130_1220,R_SMI_102,service;precalculus
+C180,MATH 111-A04,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;algebra;applications
+C181,MATH 111-B04,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;algebra;applications
+C182,MATH 112-A04,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1230_1320,R_MUE_153,service;calculus;optimization
+C183,MATH 120-A04,Precalculus,1,10,240,any,1,0,5,T_MW_1430_1550,R_GUG_220,service;precalculus;calculus
+C184,MATH 120-B04,Precalculus,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;precalculus;calculus
+C185,MATH 124-A04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C186,MATH 124-B04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus
+C187,MATH 124-C04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C188,MATH 124-D04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C189,MATH 124-E04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C190,MATH 124-F04,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;calculus
+C191,MATH 125-A04,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C192,MATH 125-B04,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1530_1620,R_GUG_220,service;calculus
+C193,MATH 125-C04,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1430_1520,R_GUG_220,service;calculus
+C194,MATH 126-A04,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus;geometry
+C195,MATH 126-B04,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus;geometry
+C196,MATH 126-C04,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus;geometry
+C197,MATH 126-D04,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus;geometry
+C198,MATH 134-A04,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MEB_248,calculus;honors;linear_algebra
+C199,MATH 200-A04,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1130_1220,R_KNE_210,combinatorics;probability;number_theory
+C200,MATH 207-A04,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MW_1000_1120,R_SMI_120,differential_equations;applied_math
+C201,MATH 207-C04,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_0830_0950,R_KNE_210,differential_equations;applied_math
+C202,MATH 207-D04,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1030_1120,R_MUE_153,differential_equations;applied_math
+C203,MATH 208-A04,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1030_1120,R_KNE_210,linear_algebra;applied_math
+C204,MATH 208-B04,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1300_1420,R_KNE_210,linear_algebra;applied_math
+C205,MATH 209-A04,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MUE_153,differential_equations;pde;analysis
+C206,MATH 224-A04,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0830_0920,R_KNE_210,calculus;geometry;analysis
+C207,MATH 224-B04,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MUE_153,calculus;geometry;analysis
+C208,MATH 300-A04,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_0930_1020,R_OTB_014,proofs;number_theory;combinatorics
+C209,MATH 300-B04,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1300_1420,R_OTB_014,proofs;number_theory;combinatorics
+C210,MATH 327-A04,Introductory Real Analysis I,1,10,75,any,0,0,4,T_TTH_1430_1550,R_MUE_153,analysis;real_analysis
+C211,MATH 334-A04,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1130_1250,R_MGH_389,analysis;pde;complex_analysis
+C212,MATH 342-A04,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1600_1720,R_PDL_C038,combinatorics;number_theory;geometry;probability
+C213,MATH 381-A04,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1000_1120,R_SMI_102,combinatorics;graph_theory;optimization
+C214,MATH 394-A04,Probability I,1,10,170,any,1,0,4,T_MWF_1230_1320,R_GUG_220,probability;statistics
+C215,MATH 398-B04,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_0830_0950,R_LOW_113,general_math;seminar
+C216,MATH 402-A04,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MW_1430_1550,R_AND_205,algebra;number_theory
+C217,MATH 407-A04,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1030_1120,R_AND_205,optimization;linear_algebra
+C218,MATH 424-A04,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MUE_153,analysis;real_analysis
+C219,MATH 427-A04,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1300_1420,R_LOW_206,complex_analysis;analysis
+C220,MATH 441-A04,Topology,0,2,90,any,1,0,4,T_TTH_1430_1550,R_AND_205,topology;geometry
+C221,MATH 444-A04,Geometries I,0,2,50,any,0,0,4,T_MWF_1530_1620,R_SMI_102,geometry;education
+C222,MATH 461-A04,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1530_1620,R_MUE_153,combinatorics;graph_theory
+C223,MATH 491-A04,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1230_1320,R_MEB_248,probability;stochastic_processes
+C224,MATH 504-A04,Modern Algebra,0,2,35,any,0,0,5,T_MWF_1230_1320,R_MEB_248,algebra;algebraic_geometry
+C225,MATH 507-A04,Algebraic Structures,0,2,25,any,0,0,3,T_F_1530_1720,R_MEB_248,algebra;representation_theory
+C226,MATH 514-A04,Network Optimization,0,2,20,any,0,0,3,T_MWF_0830_0920,R_PDL_C401,optimization;combinatorics;graph_theory
+C227,MATH 521-A04,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1000_1120,R_MEB_248,probability;analysis
+C228,MATH 526-A04,Real Analysis,0,2,20,any,0,0,5,T_F_1530_1720,R_PDL_C401,analysis;real_analysis
+C229,MATH 534-A04,Complex Analysis,0,2,25,any,0,0,5,T_MW_1430_1550,R_LOW_206,complex_analysis;analysis
+C230,MATH 544-A04,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1430_1550,R_MGH_389,topology;geometry
+C231,MATH 547-A04,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1530_1620,R_LOW_206,geometry;differential_geometry
+C232,MATH 550-D04,Seminar in Geometry,0,2,20,any,0,0,3,T_F_1530_1720,R_PDL_C038,geometry;seminar
+C233,MATH 580-B04,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_MUE_153,general_math;seminar
+C234,MATH 581-C04,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,pde;inverse_problems
+C235,MATH 584-A04,Numerical Linear Algebra,0,2,25,any,0,0,5,T_F_1530_1720,R_PDL_C401,numerical_analysis;linear_algebra
+C236,MATH 590-A04,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1600_1720,R_SMI_102,probability;seminar
+C237,MATH 102-A05,Algebra,0,2,40,any,0,0,5,T_MWF_1430_1520,R_LOW_206,service;algebra;precalculus
+C238,MATH 103-A05,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_TTH_0830_0950,R_MGH_389,service;precalculus
+C239,MATH 111-A05,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;algebra;applications
+C240,MATH 111-B05,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;algebra;applications
+C241,MATH 112-A05,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1230_1320,R_OTB_014,service;calculus;optimization
+C242,MATH 120-A05,Precalculus,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;precalculus;calculus
+C243,MATH 120-B05,Precalculus,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;precalculus;calculus
+C244,MATH 124-A05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C245,MATH 124-B05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_GUG_220,service;calculus
+C246,MATH 124-C05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C247,MATH 124-D05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C248,MATH 124-E05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_220,service;calculus
+C249,MATH 124-F05,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;calculus
+C250,MATH 125-A05,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C251,MATH 125-B05,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C252,MATH 125-C05,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1300_1420,R_KNE_220,service;calculus
+C253,MATH 126-A05,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus;geometry
+C254,MATH 126-B05,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C255,MATH 126-C05,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_220,service;calculus;geometry
+C256,MATH 126-D05,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_220,service;calculus;geometry
+C257,MATH 134-A05,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1130_1220,R_MEB_248,calculus;honors;linear_algebra
+C258,MATH 200-A05,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1430_1520,R_KNE_210,combinatorics;probability;number_theory
+C259,MATH 207-A05,Introduction to Differential Equations,1,10,230,any,1,0,4,T_F_1530_1720,R_SMI_120,differential_equations;applied_math
+C260,MATH 207-C05,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1330_1420,R_KNE_210,differential_equations;applied_math
+C261,MATH 207-D05,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1330_1420,R_SMI_102,differential_equations;applied_math
+C262,MATH 208-A05,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0930_1020,R_KNE_210,linear_algebra;applied_math
+C263,MATH 208-B05,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1230_1320,R_KNE_210,linear_algebra;applied_math
+C264,MATH 209-A05,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MUE_153,differential_equations;pde;analysis
+C265,MATH 224-A05,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0930_1020,R_KNE_210,calculus;geometry;analysis
+C266,MATH 224-B05,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MGH_389,calculus;geometry;analysis
+C267,MATH 300-A05,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1600_1720,R_OTB_014,proofs;number_theory;combinatorics
+C268,MATH 300-B05,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MW_1430_1550,R_OTB_014,proofs;number_theory;combinatorics
+C269,MATH 327-A05,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MW_1430_1550,R_OTB_014,analysis;real_analysis
+C270,MATH 334-A05,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,analysis;pde;complex_analysis
+C271,MATH 342-A05,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1430_1520,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C272,MATH 381-A05,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1430_1520,R_OTB_014,combinatorics;graph_theory;optimization
+C273,MATH 394-A05,Probability I,1,10,170,any,1,0,4,T_TTH_1300_1420,R_KNE_220,probability;statistics
+C274,MATH 398-B05,Special Topics: WDRP,0,2,15,any,0,0,2,T_MW_1430_1550,R_LOW_113,general_math;seminar
+C275,MATH 402-A05,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0930_1020,R_GUG_220,algebra;number_theory
+C276,MATH 407-A05,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1000_1120,R_KNE_210,optimization;linear_algebra
+C277,MATH 424-A05,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1300_1420,R_LOW_206,analysis;real_analysis
+C278,MATH 427-A05,Complex Analysis,0,2,50,any,0,0,4,T_MWF_0930_1020,R_MUE_153,complex_analysis;analysis
+C279,MATH 441-A05,Topology,0,2,90,any,1,0,4,T_TTH_1430_1550,R_OTB_014,topology;geometry
+C280,MATH 444-A05,Geometries I,0,2,50,any,0,0,4,T_MW_1430_1550,R_MGH_389,geometry;education
+C281,MATH 461-A05,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1430_1550,R_OTB_014,combinatorics;graph_theory
+C282,MATH 491-A05,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1130_1250,R_LOW_206,probability;stochastic_processes
+C283,MATH 504-A05,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1600_1720,R_PDL_C038,algebra;algebraic_geometry
+C284,MATH 507-A05,Algebraic Structures,0,2,25,any,0,0,3,T_F_1530_1720,R_MEB_248,algebra;representation_theory
+C285,MATH 514-A05,Network Optimization,0,2,20,any,0,0,3,T_W_1500_1650,R_MEB_248,optimization;combinatorics;graph_theory
+C286,MATH 521-A05,Advanced Probability,0,2,15,any,0,0,3,T_F_1530_1720,R_MEB_248,probability;analysis
+C287,MATH 526-A05,Real Analysis,0,2,20,any,0,0,5,T_TTH_0830_0950,R_PDL_C038,analysis;real_analysis
+C288,MATH 534-A05,Complex Analysis,0,2,25,any,0,0,5,T_F_1530_1720,R_MEB_248,complex_analysis;analysis
+C289,MATH 544-A05,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1600_1720,R_MGH_389,topology;geometry
+C290,MATH 547-A05,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1130_1250,R_MEB_248,geometry;differential_geometry
+C291,MATH 550-D05,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_LOW_113,geometry;seminar
+C292,MATH 580-B05,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_MGH_389,general_math;seminar
+C293,MATH 581-C05,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MW_1000_1120,R_LOW_206,pde;inverse_problems
+C294,MATH 584-A05,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1430_1550,R_PDL_C038,numerical_analysis;linear_algebra
+C295,MATH 590-A05,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1300_1420,R_MGH_389,probability;seminar
+C296,MATH 102-A06,Algebra,0,2,40,any,0,0,5,T_MWF_1230_1320,R_SMI_102,service;algebra;precalculus
+C297,MATH 103-A06,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1230_1320,R_LOW_206,service;precalculus
+C298,MATH 111-A06,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1000_1120,R_SMI_120,service;algebra;applications
+C299,MATH 111-B06,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;algebra;applications
+C300,MATH 112-A06,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1030_1120,R_AND_205,service;calculus;optimization
+C301,MATH 120-A06,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;precalculus;calculus
+C302,MATH 120-B06,Precalculus,1,10,240,any,1,0,5,T_TTH_1300_1420,R_KNE_220,service;precalculus;calculus
+C303,MATH 124-A06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C304,MATH 124-B06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C305,MATH 124-C06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C306,MATH 124-D06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C307,MATH 124-E06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C308,MATH 124-F06,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C309,MATH 125-A06,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C310,MATH 125-B06,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus
+C311,MATH 125-C06,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C312,MATH 126-A06,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus;geometry
+C313,MATH 126-B06,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus;geometry
+C314,MATH 126-C06,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;calculus;geometry
+C315,MATH 126-D06,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C316,MATH 134-A06,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,calculus;honors;linear_algebra
+C317,MATH 200-A06,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1130_1220,R_KNE_210,combinatorics;probability;number_theory
+C318,MATH 207-A06,Introduction to Differential Equations,1,10,230,any,1,0,4,T_TTH_1430_1550,R_KNE_220,differential_equations;applied_math
+C319,MATH 207-C06,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1530_1620,R_GUG_220,differential_equations;applied_math
+C320,MATH 207-D06,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1130_1220,R_LOW_206,differential_equations;applied_math
+C321,MATH 208-A06,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C322,MATH 208-B06,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1430_1520,R_KNE_210,linear_algebra;applied_math
+C323,MATH 209-A06,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1230_1320,R_MUE_153,differential_equations;pde;analysis
+C324,MATH 224-A06,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1000_1120,R_KNE_210,calculus;geometry;analysis
+C325,MATH 224-B06,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MGH_389,calculus;geometry;analysis
+C326,MATH 300-A06,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,proofs;number_theory;combinatorics
+C327,MATH 300-B06,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1530_1620,R_SMI_102,proofs;number_theory;combinatorics
+C328,MATH 327-A06,Introductory Real Analysis I,1,10,75,any,0,0,4,T_W_1500_1650,R_MUE_153,analysis;real_analysis
+C329,MATH 334-A06,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MGH_389,analysis;pde;complex_analysis
+C330,MATH 342-A06,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1130_1250,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C331,MATH 381-A06,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1530_1620,R_MUE_153,combinatorics;graph_theory;optimization
+C332,MATH 394-A06,Probability I,1,10,170,any,1,0,4,T_MWF_0830_0920,R_KNE_210,probability;statistics
+C333,MATH 398-B06,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_LOW_113,general_math;seminar
+C334,MATH 402-A06,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_F_1530_1720,R_SAV_260,algebra;number_theory
+C335,MATH 407-A06,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1330_1420,R_AND_205,optimization;linear_algebra
+C336,MATH 424-A06,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MUE_153,analysis;real_analysis
+C337,MATH 427-A06,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_SMI_102,complex_analysis;analysis
+C338,MATH 441-A06,Topology,0,2,90,any,1,0,4,T_TTH_1300_1420,R_AND_205,topology;geometry
+C339,MATH 444-A06,Geometries I,0,2,50,any,0,0,4,T_MWF_1130_1220,R_SMI_102,geometry;education
+C340,MATH 461-A06,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1130_1250,R_AND_205,combinatorics;graph_theory
+C341,MATH 491-A06,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1330_1420,R_SMI_102,probability;stochastic_processes
+C342,MATH 504-A06,Modern Algebra,0,2,35,any,0,0,5,T_MW_1000_1120,R_LOW_206,algebra;algebraic_geometry
+C343,MATH 507-A06,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C401,algebra;representation_theory
+C344,MATH 514-A06,Network Optimization,0,2,20,any,0,0,3,T_MW_1430_1550,R_LOW_113,optimization;combinatorics;graph_theory
+C345,MATH 521-A06,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1130_1250,R_LOW_113,probability;analysis
+C346,MATH 526-A06,Real Analysis,0,2,20,any,0,0,5,T_TTH_1130_1250,R_LOW_113,analysis;real_analysis
+C347,MATH 534-A06,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1430_1550,R_PDL_C401,complex_analysis;analysis
+C348,MATH 544-A06,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MW_1430_1550,R_MGH_389,topology;geometry
+C349,MATH 547-A06,Geometric Structures,0,2,25,any,0,0,3,T_F_1530_1720,R_PDL_C038,geometry;differential_geometry
+C350,MATH 550-D06,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,geometry;seminar
+C351,MATH 580-B06,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_OTB_014,general_math;seminar
+C352,MATH 581-C06,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MWF_1030_1120,R_LOW_206,pde;inverse_problems
+C353,MATH 584-A06,Numerical Linear Algebra,0,2,25,any,0,0,5,T_F_1530_1720,R_LOW_206,numerical_analysis;linear_algebra
+C354,MATH 590-A06,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1600_1720,R_LOW_206,probability;seminar
+C355,MATH 102-A07,Algebra,0,2,40,any,0,0,5,T_MWF_1130_1220,R_MGH_389,service;algebra;precalculus
+C356,MATH 103-A07,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_SMI_102,service;precalculus
+C357,MATH 111-A07,Algebra with Applications,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;algebra;applications
+C358,MATH 111-B07,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;algebra;applications
+C359,MATH 112-A07,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1030_1120,R_OTB_014,service;calculus;optimization
+C360,MATH 120-A07,Precalculus,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_210,service;precalculus;calculus
+C361,MATH 120-B07,Precalculus,1,10,240,any,1,0,5,T_TTH_1430_1550,R_GUG_220,service;precalculus;calculus
+C362,MATH 124-A07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C363,MATH 124-B07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1430_1550,R_SMI_120,service;calculus
+C364,MATH 124-C07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C365,MATH 124-D07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C366,MATH 124-E07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;calculus
+C367,MATH 124-F07,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_220,service;calculus
+C368,MATH 125-A07,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus
+C369,MATH 125-B07,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1130_1250,R_GUG_220,service;calculus
+C370,MATH 125-C07,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C371,MATH 126-A07,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus;geometry
+C372,MATH 126-B07,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C373,MATH 126-C07,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus;geometry
+C374,MATH 126-D07,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;calculus;geometry
+C375,MATH 134-A07,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,calculus;honors;linear_algebra
+C376,MATH 200-A07,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1130_1220,R_KNE_210,combinatorics;probability;number_theory
+C377,MATH 207-A07,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1230_1320,R_GUG_220,differential_equations;applied_math
+C378,MATH 207-C07,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1330_1420,R_KNE_210,differential_equations;applied_math
+C379,MATH 207-D07,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1130_1220,R_MGH_389,differential_equations;applied_math
+C380,MATH 208-A07,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MW_1430_1550,R_KNE_210,linear_algebra;applied_math
+C381,MATH 208-B07,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C382,MATH 209-A07,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1330_1420,R_SMI_102,differential_equations;pde;analysis
+C383,MATH 224-A07,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_F_1530_1720,R_KNE_210,calculus;geometry;analysis
+C384,MATH 224-B07,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1000_1120,R_MUE_153,calculus;geometry;analysis
+C385,MATH 300-A07,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1430_1520,R_SMI_102,proofs;number_theory;combinatorics
+C386,MATH 300-B07,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1230_1320,R_MGH_389,proofs;number_theory;combinatorics
+C387,MATH 327-A07,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1230_1320,R_OTB_014,analysis;real_analysis
+C388,MATH 334-A07,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,analysis;pde;complex_analysis
+C389,MATH 342-A07,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1230_1320,R_PDL_C038,combinatorics;number_theory;geometry;probability
+C390,MATH 381-A07,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1300_1420,R_AND_205,combinatorics;graph_theory;optimization
+C391,MATH 394-A07,Probability I,1,10,170,any,1,0,4,T_MWF_1430_1520,R_KNE_210,probability;statistics
+C392,MATH 398-B07,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_1600_1720,R_LOW_113,general_math;seminar
+C393,MATH 402-A07,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0830_0920,R_SAV_260,algebra;number_theory
+C394,MATH 407-A07,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1130_1220,R_SAV_260,optimization;linear_algebra
+C395,MATH 424-A07,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_0830_0950,R_SMI_102,analysis;real_analysis
+C396,MATH 427-A07,Complex Analysis,0,2,50,any,0,0,4,T_MWF_0930_1020,R_SMI_102,complex_analysis;analysis
+C397,MATH 441-A07,Topology,0,2,90,any,1,0,4,T_MWF_1230_1320,R_OTB_014,topology;geometry
+C398,MATH 444-A07,Geometries I,0,2,50,any,0,0,4,T_TTH_1300_1420,R_LOW_206,geometry;education
+C399,MATH 461-A07,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1130_1220,R_MUE_153,combinatorics;graph_theory
+C400,MATH 491-A07,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1130_1220,R_MGH_389,probability;stochastic_processes
+C401,MATH 504-A07,Modern Algebra,0,2,35,any,0,0,5,T_MW_1430_1550,R_MEB_248,algebra;algebraic_geometry
+C402,MATH 507-A07,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1430_1550,R_LOW_206,algebra;representation_theory
+C403,MATH 514-A07,Network Optimization,0,2,20,any,0,0,3,T_W_1500_1650,R_MEB_248,optimization;combinatorics;graph_theory
+C404,MATH 521-A07,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1430_1550,R_MEB_248,probability;analysis
+C405,MATH 526-A07,Real Analysis,0,2,20,any,0,0,5,T_MW_1000_1120,R_LOW_113,analysis;real_analysis
+C406,MATH 534-A07,Complex Analysis,0,2,25,any,0,0,5,T_F_1530_1720,R_PDL_C401,complex_analysis;analysis
+C407,MATH 544-A07,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1530_1620,R_PDL_C038,topology;geometry
+C408,MATH 547-A07,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1330_1420,R_LOW_206,geometry;differential_geometry
+C409,MATH 550-D07,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1330_1420,R_PDL_C401,geometry;seminar
+C410,MATH 580-B07,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_SMI_102,general_math;seminar
+C411,MATH 581-C07,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C401,pde;inverse_problems
+C412,MATH 584-A07,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1000_1120,R_MEB_248,numerical_analysis;linear_algebra
+C413,MATH 590-A07,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1430_1550,R_MGH_389,probability;seminar
+C414,MATH 102-A08,Algebra,0,2,40,any,0,0,5,T_MWF_1430_1520,R_LOW_206,service;algebra;precalculus
+C415,MATH 103-A08,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1430_1520,R_LOW_206,service;precalculus
+C416,MATH 111-A08,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;algebra;applications
+C417,MATH 111-B08,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;algebra;applications
+C418,MATH 112-A08,Business and Economic Calculus,0,2,90,any,1,0,5,T_MW_1430_1550,R_MUE_153,service;calculus;optimization
+C419,MATH 120-A08,Precalculus,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;precalculus;calculus
+C420,MATH 120-B08,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;precalculus;calculus
+C421,MATH 124-A08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C422,MATH 124-B08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_GUG_220,service;calculus
+C423,MATH 124-C08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_210,service;calculus
+C424,MATH 124-D08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C425,MATH 124-E08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;calculus
+C426,MATH 124-F08,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus
+C427,MATH 125-A08,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C428,MATH 125-B08,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus
+C429,MATH 125-C08,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C430,MATH 126-A08,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C431,MATH 126-B08,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1430_1550,R_KNE_220,service;calculus;geometry
+C432,MATH 126-C08,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus;geometry
+C433,MATH 126-D08,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C434,MATH 134-A08,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1530_1620,R_LOW_206,calculus;honors;linear_algebra
+C435,MATH 200-A08,Discrete Mathematics I,0,2,300,any,1,0,5,T_TTH_1000_1120,R_KNE_210,combinatorics;probability;number_theory
+C436,MATH 207-A08,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1130_1220,R_KNE_210,differential_equations;applied_math
+C437,MATH 207-C08,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1000_1120,R_GUG_220,differential_equations;applied_math
+C438,MATH 207-D08,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_0830_0950,R_MGH_389,differential_equations;applied_math
+C439,MATH 208-A08,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C440,MATH 208-B08,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1300_1420,R_KNE_210,linear_algebra;applied_math
+C441,MATH 209-A08,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_LOW_206,differential_equations;pde;analysis
+C442,MATH 224-A08,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1000_1120,R_KNE_210,calculus;geometry;analysis
+C443,MATH 224-B08,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1300_1420,R_LOW_206,calculus;geometry;analysis
+C444,MATH 300-A08,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1130_1220,R_AND_205,proofs;number_theory;combinatorics
+C445,MATH 300-B08,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1430_1550,R_OTB_014,proofs;number_theory;combinatorics
+C446,MATH 327-A08,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1230_1320,R_OTB_014,analysis;real_analysis
+C447,MATH 334-A08,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1300_1420,R_MGH_389,analysis;pde;complex_analysis
+C448,MATH 342-A08,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_0830_0950,R_LOW_206,combinatorics;number_theory;geometry;probability
+C449,MATH 381-A08,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1600_1720,R_SMI_102,combinatorics;graph_theory;optimization
+C450,MATH 394-A08,Probability I,1,10,170,any,1,0,4,T_MWF_1430_1520,R_KNE_220,probability;statistics
+C451,MATH 398-B08,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_1530_1620,R_PDL_C038,general_math;seminar
+C452,MATH 402-A08,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0830_0920,R_GUG_220,algebra;number_theory
+C453,MATH 407-A08,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1430_1520,R_GUG_220,optimization;linear_algebra
+C454,MATH 424-A08,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1330_1420,R_MUE_153,analysis;real_analysis
+C455,MATH 427-A08,Complex Analysis,0,2,50,any,0,0,4,T_MW_1000_1120,R_SMI_102,complex_analysis;analysis
+C456,MATH 441-A08,Topology,0,2,90,any,1,0,4,T_MWF_1130_1220,R_SAV_260,topology;geometry
+C457,MATH 444-A08,Geometries I,0,2,50,any,0,0,4,T_MWF_0830_0920,R_LOW_206,geometry;education
+C458,MATH 461-A08,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1000_1120,R_OTB_014,combinatorics;graph_theory
+C459,MATH 491-A08,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1430_1550,R_MEB_248,probability;stochastic_processes
+C460,MATH 504-A08,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1430_1550,R_MGH_389,algebra;algebraic_geometry
+C461,MATH 507-A08,Algebraic Structures,0,2,25,any,0,0,3,T_MWF_1130_1220,R_MEB_248,algebra;representation_theory
+C462,MATH 514-A08,Network Optimization,0,2,20,any,0,0,3,T_MWF_1330_1420,R_PDL_C401,optimization;combinatorics;graph_theory
+C463,MATH 521-A08,Advanced Probability,0,2,15,any,0,0,3,T_TTH_0830_0950,R_PDL_C038,probability;analysis
+C464,MATH 526-A08,Real Analysis,0,2,20,any,0,0,5,T_MWF_1330_1420,R_PDL_C401,analysis;real_analysis
+C465,MATH 534-A08,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1430_1550,R_LOW_206,complex_analysis;analysis
+C466,MATH 544-A08,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1130_1250,R_MEB_248,topology;geometry
+C467,MATH 547-A08,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1430_1550,R_MEB_248,geometry;differential_geometry
+C468,MATH 550-D08,Seminar in Geometry,0,2,20,any,0,0,3,T_F_1530_1720,R_LOW_113,geometry;seminar
+C469,MATH 580-B08,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_OTB_014,general_math;seminar
+C470,MATH 581-C08,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MW_1430_1550,R_PDL_C401,pde;inverse_problems
+C471,MATH 584-A08,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1430_1550,R_PDL_C038,numerical_analysis;linear_algebra
+C472,MATH 590-A08,Seminar in Probability,0,2,40,any,0,0,3,T_W_1500_1650,R_MGH_389,probability;seminar
+C473,MATH 102-A09,Algebra,0,2,40,any,0,0,5,T_MWF_1330_1420,R_LOW_206,service;algebra;precalculus
+C474,MATH 103-A09,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0830_0920,R_SMI_102,service;precalculus
+C475,MATH 111-A09,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;algebra;applications
+C476,MATH 111-B09,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;algebra;applications
+C477,MATH 112-A09,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_0830_0920,R_SAV_260,service;calculus;optimization
+C478,MATH 120-A09,Precalculus,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;precalculus;calculus
+C479,MATH 120-B09,Precalculus,1,10,240,any,1,0,5,T_TTH_1300_1420,R_GUG_220,service;precalculus;calculus
+C480,MATH 124-A09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;calculus
+C481,MATH 124-B09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C482,MATH 124-C09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C483,MATH 124-D09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C484,MATH 124-E09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C485,MATH 124-F09,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C486,MATH 125-A09,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;calculus
+C487,MATH 125-B09,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_210,service;calculus
+C488,MATH 125-C09,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C489,MATH 126-A09,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1530_1620,R_SMI_120,service;calculus;geometry
+C490,MATH 126-B09,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus;geometry
+C491,MATH 126-C09,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus;geometry
+C492,MATH 126-D09,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus;geometry
+C493,MATH 134-A09,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1130_1220,R_MEB_248,calculus;honors;linear_algebra
+C494,MATH 200-A09,Discrete Mathematics I,0,2,300,any,1,0,5,T_W_1500_1650,R_KNE_210,combinatorics;probability;number_theory
+C495,MATH 207-A09,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1330_1420,R_KNE_220,differential_equations;applied_math
+C496,MATH 207-C09,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1430_1520,R_KNE_210,differential_equations;applied_math
+C497,MATH 207-D09,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1600_1720,R_LOW_206,differential_equations;applied_math
+C498,MATH 208-A09,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MW_1430_1550,R_KNE_210,linear_algebra;applied_math
+C499,MATH 208-B09,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0930_1020,R_KNE_210,linear_algebra;applied_math
+C500,MATH 209-A09,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1530_1620,R_MGH_389,differential_equations;pde;analysis
+C501,MATH 224-A09,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_1530_1620,R_KNE_210,calculus;geometry;analysis
+C502,MATH 224-B09,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1600_1720,R_SMI_102,calculus;geometry;analysis
+C503,MATH 300-A09,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_0830_0950,R_OTB_014,proofs;number_theory;combinatorics
+C504,MATH 300-B09,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1130_1250,R_OTB_014,proofs;number_theory;combinatorics
+C505,MATH 327-A09,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1330_1420,R_SMI_102,analysis;real_analysis
+C506,MATH 334-A09,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1130_1220,R_LOW_206,analysis;pde;complex_analysis
+C507,MATH 342-A09,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_0930_1020,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C508,MATH 381-A09,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1430_1550,R_AND_205,combinatorics;graph_theory;optimization
+C509,MATH 394-A09,Probability I,1,10,170,any,1,0,4,T_MW_1430_1550,R_KNE_210,probability;statistics
+C510,MATH 398-B09,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_1600_1720,R_PDL_C038,general_math;seminar
+C511,MATH 402-A09,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0830_0920,R_GUG_220,algebra;number_theory
+C512,MATH 407-A09,Linear Optimization,1,10,150,any,1,0,4,T_MW_1000_1120,R_KNE_210,optimization;linear_algebra
+C513,MATH 424-A09,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_SMI_102,analysis;real_analysis
+C514,MATH 427-A09,Complex Analysis,0,2,50,any,0,0,4,T_MW_1000_1120,R_MUE_153,complex_analysis;analysis
+C515,MATH 441-A09,Topology,0,2,90,any,1,0,4,T_TTH_1130_1250,R_AND_205,topology;geometry
+C516,MATH 444-A09,Geometries I,0,2,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,geometry;education
+C517,MATH 461-A09,Combinatorial Theory I,0,2,80,any,1,0,4,T_MW_1430_1550,R_MUE_153,combinatorics;graph_theory
+C518,MATH 491-A09,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1600_1720,R_MGH_389,probability;stochastic_processes
+C519,MATH 504-A09,Modern Algebra,0,2,35,any,0,0,5,T_W_1500_1650,R_MEB_248,algebra;algebraic_geometry
+C520,MATH 507-A09,Algebraic Structures,0,2,25,any,0,0,3,T_MWF_1330_1420,R_PDL_C401,algebra;representation_theory
+C521,MATH 514-A09,Network Optimization,0,2,20,any,0,0,3,T_MW_1430_1550,R_PDL_C401,optimization;combinatorics;graph_theory
+C522,MATH 521-A09,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1130_1250,R_PDL_C401,probability;analysis
+C523,MATH 526-A09,Real Analysis,0,2,20,any,0,0,5,T_MWF_1330_1420,R_LOW_113,analysis;real_analysis
+C524,MATH 534-A09,Complex Analysis,0,2,25,any,0,0,5,T_TTH_0830_0950,R_PDL_C401,complex_analysis;analysis
+C525,MATH 544-A09,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1130_1250,R_PDL_C038,topology;geometry
+C526,MATH 547-A09,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1600_1720,R_PDL_C401,geometry;differential_geometry
+C527,MATH 550-D09,Seminar in Geometry,0,2,20,any,0,0,3,T_F_1530_1720,R_PDL_C401,geometry;seminar
+C528,MATH 580-B09,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_OTB_014,general_math;seminar
+C529,MATH 581-C09,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,pde;inverse_problems
+C530,MATH 584-A09,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MWF_1430_1520,R_MEB_248,numerical_analysis;linear_algebra
+C531,MATH 590-A09,Seminar in Probability,0,2,40,any,0,0,3,T_W_1500_1650,R_SMI_102,probability;seminar
+C532,MATH 102-A10,Algebra,0,2,40,any,0,0,5,T_MWF_1530_1620,R_MGH_389,service;algebra;precalculus
+C533,MATH 103-A10,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_MEB_248,service;precalculus
+C534,MATH 111-A10,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;algebra;applications
+C535,MATH 111-B10,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_210,service;algebra;applications
+C536,MATH 112-A10,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1030_1120,R_MUE_153,service;calculus;optimization
+C537,MATH 120-A10,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;precalculus;calculus
+C538,MATH 120-B10,Precalculus,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;precalculus;calculus
+C539,MATH 124-A10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C540,MATH 124-B10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus
+C541,MATH 124-C10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C542,MATH 124-D10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C543,MATH 124-E10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C544,MATH 124-F10,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C545,MATH 125-A10,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C546,MATH 125-B10,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C547,MATH 125-C10,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1300_1420,R_GUG_220,service;calculus
+C548,MATH 126-A10,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1530_1620,R_GUG_220,service;calculus;geometry
+C549,MATH 126-B10,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1300_1420,R_KNE_220,service;calculus;geometry
+C550,MATH 126-C10,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus;geometry
+C551,MATH 126-D10,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus;geometry
+C552,MATH 134-A10,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MEB_248,calculus;honors;linear_algebra
+C553,MATH 200-A10,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1530_1620,R_KNE_210,combinatorics;probability;number_theory
+C554,MATH 207-A10,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1030_1120,R_GUG_220,differential_equations;applied_math
+C555,MATH 207-C10,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1530_1620,R_KNE_210,differential_equations;applied_math
+C556,MATH 207-D10,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_0930_1020,R_MGH_389,differential_equations;applied_math
+C557,MATH 208-A10,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1000_1120,R_KNE_210,linear_algebra;applied_math
+C558,MATH 208-B10,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1130_1220,R_KNE_210,linear_algebra;applied_math
+C559,MATH 209-A10,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1000_1120,R_SMI_102,differential_equations;pde;analysis
+C560,MATH 224-A10,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1000_1120,R_KNE_210,calculus;geometry;analysis
+C561,MATH 224-B10,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MGH_389,calculus;geometry;analysis
+C562,MATH 300-A10,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1430_1520,R_AND_205,proofs;number_theory;combinatorics
+C563,MATH 300-B10,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_0830_0920,R_OTB_014,proofs;number_theory;combinatorics
+C564,MATH 327-A10,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1030_1120,R_AND_205,analysis;real_analysis
+C565,MATH 334-A10,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1230_1320,R_MEB_248,analysis;pde;complex_analysis
+C566,MATH 342-A10,Art of Problem Solving,0,2,25,any,0,0,4,T_MW_1430_1550,R_LOW_206,combinatorics;number_theory;geometry;probability
+C567,MATH 381-A10,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,combinatorics;graph_theory;optimization
+C568,MATH 394-A10,Probability I,1,10,170,any,1,0,4,T_TTH_1430_1550,R_GUG_220,probability;statistics
+C569,MATH 398-B10,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_PDL_C038,general_math;seminar
+C570,MATH 402-A10,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1430_1550,R_AND_205,algebra;number_theory
+C571,MATH 407-A10,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1000_1120,R_GUG_220,optimization;linear_algebra
+C572,MATH 424-A10,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1330_1420,R_LOW_206,analysis;real_analysis
+C573,MATH 427-A10,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_SMI_102,complex_analysis;analysis
+C574,MATH 441-A10,Topology,0,2,90,any,1,0,4,T_TTH_1000_1120,R_SAV_260,topology;geometry
+C575,MATH 444-A10,Geometries I,0,2,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,geometry;education
+C576,MATH 461-A10,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1330_1420,R_MUE_153,combinatorics;graph_theory
+C577,MATH 491-A10,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1430_1550,R_MEB_248,probability;stochastic_processes
+C578,MATH 504-A10,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1300_1420,R_MEB_248,algebra;algebraic_geometry
+C579,MATH 507-A10,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1000_1120,R_PDL_C038,algebra;representation_theory
+C580,MATH 514-A10,Network Optimization,0,2,20,any,0,0,3,T_W_1500_1650,R_PDL_C038,optimization;combinatorics;graph_theory
+C581,MATH 521-A10,Advanced Probability,0,2,15,any,0,0,3,T_MWF_1530_1620,R_MEB_248,probability;analysis
+C582,MATH 526-A10,Real Analysis,0,2,20,any,0,0,5,T_TTH_1130_1250,R_LOW_113,analysis;real_analysis
+C583,MATH 534-A10,Complex Analysis,0,2,25,any,0,0,5,T_MW_1430_1550,R_MEB_248,complex_analysis;analysis
+C584,MATH 544-A10,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1430_1550,R_LOW_206,topology;geometry
+C585,MATH 547-A10,Geometric Structures,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C038,geometry;differential_geometry
+C586,MATH 550-D10,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1430_1520,R_LOW_113,geometry;seminar
+C587,MATH 580-B10,Departmental Colloquium,0,2,60,any,0,0,2,T_TTH_0830_0950,R_MUE_153,general_math;seminar
+C588,MATH 581-C10,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,pde;inverse_problems
+C589,MATH 584-A10,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1000_1120,R_PDL_C401,numerical_analysis;linear_algebra
+C590,MATH 590-A10,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_MGH_389,probability;seminar
+C591,MATH 102-A11,Algebra,0,2,40,any,0,0,5,T_MWF_1430_1520,R_SMI_102,service;algebra;precalculus
+C592,MATH 103-A11,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_SMI_102,service;precalculus
+C593,MATH 111-A11,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;algebra;applications
+C594,MATH 111-B11,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;algebra;applications
+C595,MATH 112-A11,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_1600_1720,R_AND_205,service;calculus;optimization
+C596,MATH 120-A11,Precalculus,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;precalculus;calculus
+C597,MATH 120-B11,Precalculus,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;precalculus;calculus
+C598,MATH 124-A11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;calculus
+C599,MATH 124-B11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C600,MATH 124-C11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus
+C601,MATH 124-D11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C602,MATH 124-E11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C603,MATH 124-F11,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;calculus
+C604,MATH 125-A11,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C605,MATH 125-B11,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus
+C606,MATH 125-C11,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C607,MATH 126-A11,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;calculus;geometry
+C608,MATH 126-B11,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus;geometry
+C609,MATH 126-C11,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus;geometry
+C610,MATH 126-D11,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus;geometry
+C611,MATH 134-A11,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1330_1420,R_LOW_206,calculus;honors;linear_algebra
+C612,MATH 200-A11,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1230_1320,R_KNE_210,combinatorics;probability;number_theory
+C613,MATH 207-A11,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1430_1520,R_KNE_210,differential_equations;applied_math
+C614,MATH 207-C11,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1000_1120,R_KNE_210,differential_equations;applied_math
+C615,MATH 207-D11,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1130_1220,R_MGH_389,differential_equations;applied_math
+C616,MATH 208-A11,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1430_1520,R_KNE_210,linear_algebra;applied_math
+C617,MATH 208-B11,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_0830_0950,R_KNE_210,linear_algebra;applied_math
+C618,MATH 209-A11,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,differential_equations;pde;analysis
+C619,MATH 224-A11,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1130_1250,R_KNE_210,calculus;geometry;analysis
+C620,MATH 224-B11,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MUE_153,calculus;geometry;analysis
+C621,MATH 300-A11,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_0830_0920,R_MUE_153,proofs;number_theory;combinatorics
+C622,MATH 300-B11,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1030_1120,R_SMI_102,proofs;number_theory;combinatorics
+C623,MATH 327-A11,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1430_1520,R_AND_205,analysis;real_analysis
+C624,MATH 334-A11,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1430_1550,R_MGH_389,analysis;pde;complex_analysis
+C625,MATH 342-A11,Art of Problem Solving,0,2,25,any,0,0,4,T_MW_1430_1550,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C626,MATH 381-A11,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1130_1250,R_AND_205,combinatorics;graph_theory;optimization
+C627,MATH 394-A11,Probability I,1,10,170,any,1,0,4,T_MWF_0830_0920,R_KNE_220,probability;statistics
+C628,MATH 398-B11,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_LOW_113,general_math;seminar
+C629,MATH 402-A11,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1300_1420,R_GUG_220,algebra;number_theory
+C630,MATH 407-A11,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1300_1420,R_SAV_260,optimization;linear_algebra
+C631,MATH 424-A11,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1330_1420,R_LOW_206,analysis;real_analysis
+C632,MATH 427-A11,Complex Analysis,0,2,50,any,0,0,4,T_TTH_0830_0950,R_LOW_206,complex_analysis;analysis
+C633,MATH 441-A11,Topology,0,2,90,any,1,0,4,T_TTH_1300_1420,R_SAV_260,topology;geometry
+C634,MATH 444-A11,Geometries I,0,2,50,any,0,0,4,T_MWF_1030_1120,R_SMI_102,geometry;education
+C635,MATH 461-A11,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1000_1120,R_MUE_153,combinatorics;graph_theory
+C636,MATH 491-A11,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1000_1120,R_LOW_206,probability;stochastic_processes
+C637,MATH 504-A11,Modern Algebra,0,2,35,any,0,0,5,T_MWF_1230_1320,R_MEB_248,algebra;algebraic_geometry
+C638,MATH 507-A11,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_0830_0950,R_LOW_206,algebra;representation_theory
+C639,MATH 514-A11,Network Optimization,0,2,20,any,0,0,3,T_MW_1430_1550,R_PDL_C401,optimization;combinatorics;graph_theory
+C640,MATH 521-A11,Advanced Probability,0,2,15,any,0,0,3,T_MW_1430_1550,R_PDL_C401,probability;analysis
+C641,MATH 526-A11,Real Analysis,0,2,20,any,0,0,5,T_TTH_1430_1550,R_MEB_248,analysis;real_analysis
+C642,MATH 534-A11,Complex Analysis,0,2,25,any,0,0,5,T_W_1500_1650,R_MEB_248,complex_analysis;analysis
+C643,MATH 544-A11,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1430_1550,R_LOW_206,topology;geometry
+C644,MATH 547-A11,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C401,geometry;differential_geometry
+C645,MATH 550-D11,Seminar in Geometry,0,2,20,any,0,0,3,T_W_1500_1650,R_PDL_C401,geometry;seminar
+C646,MATH 580-B11,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_MUE_153,general_math;seminar
+C647,MATH 581-C11,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_W_1500_1650,R_PDL_C038,pde;inverse_problems
+C648,MATH 584-A11,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1430_1550,R_PDL_C401,numerical_analysis;linear_algebra
+C649,MATH 590-A11,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1600_1720,R_MEB_248,probability;seminar
+C650,MATH 102-A12,Algebra,0,2,40,any,0,0,5,T_MWF_1130_1220,R_MEB_248,service;algebra;precalculus
+C651,MATH 103-A12,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1030_1120,R_MGH_389,service;precalculus
+C652,MATH 111-A12,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;algebra;applications
+C653,MATH 111-B12,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;algebra;applications
+C654,MATH 112-A12,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1430_1520,R_AND_205,service;calculus;optimization
+C655,MATH 120-A12,Precalculus,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;precalculus;calculus
+C656,MATH 120-B12,Precalculus,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;precalculus;calculus
+C657,MATH 124-A12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_F_1530_1720,R_GUG_220,service;calculus
+C658,MATH 124-B12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C659,MATH 124-C12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus
+C660,MATH 124-D12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C661,MATH 124-E12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_GUG_220,service;calculus
+C662,MATH 124-F12,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus
+C663,MATH 125-A12,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus
+C664,MATH 125-B12,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C665,MATH 125-C12,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C666,MATH 126-A12,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus;geometry
+C667,MATH 126-B12,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1130_1250,R_SMI_120,service;calculus;geometry
+C668,MATH 126-C12,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;calculus;geometry
+C669,MATH 126-D12,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;calculus;geometry
+C670,MATH 134-A12,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,calculus;honors;linear_algebra
+C671,MATH 200-A12,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1530_1620,R_KNE_210,combinatorics;probability;number_theory
+C672,MATH 207-A12,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1530_1620,R_KNE_210,differential_equations;applied_math
+C673,MATH 207-C12,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1430_1550,R_GUG_220,differential_equations;applied_math
+C674,MATH 207-D12,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_0830_0920,R_SMI_102,differential_equations;applied_math
+C675,MATH 208-A12,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1330_1420,R_KNE_210,linear_algebra;applied_math
+C676,MATH 208-B12,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1230_1320,R_KNE_210,linear_algebra;applied_math
+C677,MATH 209-A12,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MUE_153,differential_equations;pde;analysis
+C678,MATH 224-A12,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0830_0920,R_KNE_210,calculus;geometry;analysis
+C679,MATH 224-B12,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MGH_389,calculus;geometry;analysis
+C680,MATH 300-A12,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MW_1000_1120,R_OTB_014,proofs;number_theory;combinatorics
+C681,MATH 300-B12,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1530_1620,R_MUE_153,proofs;number_theory;combinatorics
+C682,MATH 327-A12,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1130_1220,R_MUE_153,analysis;real_analysis
+C683,MATH 334-A12,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1600_1720,R_MGH_389,analysis;pde;complex_analysis
+C684,MATH 342-A12,Art of Problem Solving,0,2,25,any,0,0,4,T_MW_1000_1120,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C685,MATH 381-A12,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1300_1420,R_AND_205,combinatorics;graph_theory;optimization
+C686,MATH 394-A12,Probability I,1,10,170,any,1,0,4,T_TTH_1430_1550,R_GUG_220,probability;statistics
+C687,MATH 398-B12,Special Topics: WDRP,0,2,15,any,0,0,2,T_W_1500_1650,R_PDL_C401,general_math;seminar
+C688,MATH 402-A12,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1330_1420,R_AND_205,algebra;number_theory
+C689,MATH 407-A12,Linear Optimization,1,10,150,any,1,0,4,T_TTH_0830_0950,R_AND_205,optimization;linear_algebra
+C690,MATH 424-A12,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1230_1320,R_LOW_206,analysis;real_analysis
+C691,MATH 427-A12,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1600_1720,R_LOW_206,complex_analysis;analysis
+C692,MATH 441-A12,Topology,0,2,90,any,1,0,4,T_TTH_1300_1420,R_OTB_014,topology;geometry
+C693,MATH 444-A12,Geometries I,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MUE_153,geometry;education
+C694,MATH 461-A12,Combinatorial Theory I,0,2,80,any,1,0,4,T_W_1500_1650,R_SMI_102,combinatorics;graph_theory
+C695,MATH 491-A12,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1030_1120,R_MGH_389,probability;stochastic_processes
+C696,MATH 504-A12,Modern Algebra,0,2,35,any,0,0,5,T_MW_1000_1120,R_MGH_389,algebra;algebraic_geometry
+C697,MATH 507-A12,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1300_1420,R_LOW_206,algebra;representation_theory
+C698,MATH 514-A12,Network Optimization,0,2,20,any,0,0,3,T_MWF_1530_1620,R_PDL_C401,optimization;combinatorics;graph_theory
+C699,MATH 521-A12,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1000_1120,R_LOW_113,probability;analysis
+C700,MATH 526-A12,Real Analysis,0,2,20,any,0,0,5,T_F_1530_1720,R_MEB_248,analysis;real_analysis
+C701,MATH 534-A12,Complex Analysis,0,2,25,any,0,0,5,T_MW_1430_1550,R_PDL_C038,complex_analysis;analysis
+C702,MATH 544-A12,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1330_1420,R_MGH_389,topology;geometry
+C703,MATH 547-A12,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C401,geometry;differential_geometry
+C704,MATH 550-D12,Seminar in Geometry,0,2,20,any,0,0,3,T_W_1500_1650,R_PDL_C401,geometry;seminar
+C705,MATH 580-B12,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_MUE_153,general_math;seminar
+C706,MATH 581-C12,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_F_1530_1720,R_PDL_C038,pde;inverse_problems
+C707,MATH 584-A12,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1000_1120,R_PDL_C038,numerical_analysis;linear_algebra
+C708,MATH 590-A12,Seminar in Probability,0,2,40,any,0,0,3,T_MW_1430_1550,R_SMI_102,probability;seminar
+C709,MATH 102-A13,Algebra,0,2,40,any,0,0,5,T_TTH_0830_0950,R_MGH_389,service;algebra;precalculus
+C710,MATH 103-A13,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MW_1000_1120,R_LOW_206,service;precalculus
+C711,MATH 111-A13,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;algebra;applications
+C712,MATH 111-B13,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_220,service;algebra;applications
+C713,MATH 112-A13,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1430_1520,R_AND_205,service;calculus;optimization
+C714,MATH 120-A13,Precalculus,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;precalculus;calculus
+C715,MATH 120-B13,Precalculus,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;precalculus;calculus
+C716,MATH 124-A13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C717,MATH 124-B13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C718,MATH 124-C13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus
+C719,MATH 124-D13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus
+C720,MATH 124-E13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C721,MATH 124-F13,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;calculus
+C722,MATH 125-A13,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;calculus
+C723,MATH 125-B13,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_220,service;calculus
+C724,MATH 125-C13,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_220,service;calculus
+C725,MATH 126-A13,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus;geometry
+C726,MATH 126-B13,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus;geometry
+C727,MATH 126-C13,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus;geometry
+C728,MATH 126-D13,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus;geometry
+C729,MATH 134-A13,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_0930_1020,R_SMI_102,calculus;honors;linear_algebra
+C730,MATH 200-A13,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1230_1320,R_KNE_210,combinatorics;probability;number_theory
+C731,MATH 207-A13,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_0830_0920,R_GUG_220,differential_equations;applied_math
+C732,MATH 207-C13,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1000_1120,R_KNE_210,differential_equations;applied_math
+C733,MATH 207-D13,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1430_1520,R_LOW_206,differential_equations;applied_math
+C734,MATH 208-A13,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C735,MATH 208-B13,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1230_1320,R_KNE_210,linear_algebra;applied_math
+C736,MATH 209-A13,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MUE_153,differential_equations;pde;analysis
+C737,MATH 224-A13,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0830_0920,R_KNE_210,calculus;geometry;analysis
+C738,MATH 224-B13,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1430_1520,R_LOW_206,calculus;geometry;analysis
+C739,MATH 300-A13,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1430_1550,R_AND_205,proofs;number_theory;combinatorics
+C740,MATH 300-B13,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_0930_1020,R_OTB_014,proofs;number_theory;combinatorics
+C741,MATH 327-A13,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1030_1120,R_MUE_153,analysis;real_analysis
+C742,MATH 334-A13,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1530_1620,R_SMI_102,analysis;pde;complex_analysis
+C743,MATH 342-A13,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1300_1420,R_MEB_248,combinatorics;number_theory;geometry;probability
+C744,MATH 381-A13,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1430_1520,R_AND_205,combinatorics;graph_theory;optimization
+C745,MATH 394-A13,Probability I,1,10,170,any,1,0,4,T_TTH_1430_1550,R_KNE_220,probability;statistics
+C746,MATH 398-B13,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_PDL_C401,general_math;seminar
+C747,MATH 402-A13,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0830_0920,R_GUG_220,algebra;number_theory
+C748,MATH 407-A13,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1430_1520,R_AND_205,optimization;linear_algebra
+C749,MATH 424-A13,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1230_1320,R_SMI_102,analysis;real_analysis
+C750,MATH 427-A13,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1130_1250,R_LOW_206,complex_analysis;analysis
+C751,MATH 441-A13,Topology,0,2,90,any,1,0,4,T_MWF_1230_1320,R_AND_205,topology;geometry
+C752,MATH 444-A13,Geometries I,0,2,50,any,0,0,4,T_F_1530_1720,R_MUE_153,geometry;education
+C753,MATH 461-A13,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1000_1120,R_AND_205,combinatorics;graph_theory
+C754,MATH 491-A13,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1000_1120,R_LOW_206,probability;stochastic_processes
+C755,MATH 504-A13,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1000_1120,R_LOW_206,algebra;algebraic_geometry
+C756,MATH 507-A13,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C038,algebra;representation_theory
+C757,MATH 514-A13,Network Optimization,0,2,20,any,0,0,3,T_F_1530_1720,R_PDL_C401,optimization;combinatorics;graph_theory
+C758,MATH 521-A13,Advanced Probability,0,2,15,any,0,0,3,T_MW_1000_1120,R_PDL_C401,probability;analysis
+C759,MATH 526-A13,Real Analysis,0,2,20,any,0,0,5,T_TTH_1430_1550,R_LOW_113,analysis;real_analysis
+C760,MATH 534-A13,Complex Analysis,0,2,25,any,0,0,5,T_TTH_0830_0950,R_LOW_206,complex_analysis;analysis
+C761,MATH 544-A13,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1600_1720,R_MGH_389,topology;geometry
+C762,MATH 547-A13,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1530_1620,R_PDL_C038,geometry;differential_geometry
+C763,MATH 550-D13,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1230_1320,R_LOW_113,geometry;seminar
+C764,MATH 580-B13,Departmental Colloquium,0,2,60,any,0,0,2,T_MW_1430_1550,R_MUE_153,general_math;seminar
+C765,MATH 581-C13,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C401,pde;inverse_problems
+C766,MATH 584-A13,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1600_1720,R_PDL_C401,numerical_analysis;linear_algebra
+C767,MATH 590-A13,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_MGH_389,probability;seminar
+C768,MATH 102-A14,Algebra,0,2,40,any,0,0,5,T_MWF_0830_0920,R_MGH_389,service;algebra;precalculus
+C769,MATH 103-A14,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1230_1320,R_SMI_102,service;precalculus
+C770,MATH 111-A14,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;algebra;applications
+C771,MATH 111-B14,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1530_1620,R_GUG_220,service;algebra;applications
+C772,MATH 112-A14,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_0830_0920,R_AND_205,service;calculus;optimization
+C773,MATH 120-A14,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;precalculus;calculus
+C774,MATH 120-B14,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_220,service;precalculus;calculus
+C775,MATH 124-A14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;calculus
+C776,MATH 124-B14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C777,MATH 124-C14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C778,MATH 124-D14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_F_1530_1720,R_KNE_220,service;calculus
+C779,MATH 124-E14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;calculus
+C780,MATH 124-F14,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C781,MATH 125-A14,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus
+C782,MATH 125-B14,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C783,MATH 125-C14,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C784,MATH 126-A14,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1430_1550,R_KNE_210,service;calculus;geometry
+C785,MATH 126-B14,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus;geometry
+C786,MATH 126-C14,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus;geometry
+C787,MATH 126-D14,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus;geometry
+C788,MATH 134-A14,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1530_1620,R_MGH_389,calculus;honors;linear_algebra
+C789,MATH 200-A14,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1230_1320,R_KNE_210,combinatorics;probability;number_theory
+C790,MATH 207-A14,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1430_1520,R_KNE_220,differential_equations;applied_math
+C791,MATH 207-C14,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1230_1320,R_GUG_220,differential_equations;applied_math
+C792,MATH 207-D14,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MW_1430_1550,R_MUE_153,differential_equations;applied_math
+C793,MATH 208-A14,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C794,MATH 208-B14,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0830_0920,R_KNE_210,linear_algebra;applied_math
+C795,MATH 209-A14,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1000_1120,R_SMI_102,differential_equations;pde;analysis
+C796,MATH 224-A14,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_0830_0950,R_KNE_210,calculus;geometry;analysis
+C797,MATH 224-B14,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1130_1250,R_MGH_389,calculus;geometry;analysis
+C798,MATH 300-A14,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1330_1420,R_AND_205,proofs;number_theory;combinatorics
+C799,MATH 300-B14,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1430_1550,R_MUE_153,proofs;number_theory;combinatorics
+C800,MATH 327-A14,Introductory Real Analysis I,1,10,75,any,0,0,4,T_TTH_1130_1250,R_MUE_153,analysis;real_analysis
+C801,MATH 334-A14,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_0830_0950,R_SMI_102,analysis;pde;complex_analysis
+C802,MATH 342-A14,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1000_1120,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C803,MATH 381-A14,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1130_1220,R_AND_205,combinatorics;graph_theory;optimization
+C804,MATH 394-A14,Probability I,1,10,170,any,1,0,4,T_TTH_1130_1250,R_SAV_260,probability;statistics
+C805,MATH 398-B14,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_1600_1720,R_LOW_113,general_math;seminar
+C806,MATH 402-A14,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0930_1020,R_SAV_260,algebra;number_theory
+C807,MATH 407-A14,Linear Optimization,1,10,150,any,1,0,4,T_MWF_0930_1020,R_AND_205,optimization;linear_algebra
+C808,MATH 424-A14,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1300_1420,R_MGH_389,analysis;real_analysis
+C809,MATH 427-A14,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_LOW_206,complex_analysis;analysis
+C810,MATH 441-A14,Topology,0,2,90,any,1,0,4,T_MW_1430_1550,R_MUE_153,topology;geometry
+C811,MATH 444-A14,Geometries I,0,2,50,any,0,0,4,T_MWF_1330_1420,R_MUE_153,geometry;education
+C812,MATH 461-A14,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,combinatorics;graph_theory
+C813,MATH 491-A14,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MW_1430_1550,R_SMI_102,probability;stochastic_processes
+C814,MATH 504-A14,Modern Algebra,0,2,35,any,0,0,5,T_MW_1430_1550,R_MEB_248,algebra;algebraic_geometry
+C815,MATH 507-A14,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1000_1120,R_LOW_206,algebra;representation_theory
+C816,MATH 514-A14,Network Optimization,0,2,20,any,0,0,3,T_F_1530_1720,R_PDL_C038,optimization;combinatorics;graph_theory
+C817,MATH 521-A14,Advanced Probability,0,2,15,any,0,0,3,T_W_1500_1650,R_PDL_C401,probability;analysis
+C818,MATH 526-A14,Real Analysis,0,2,20,any,0,0,5,T_MWF_1530_1620,R_MEB_248,analysis;real_analysis
+C819,MATH 534-A14,Complex Analysis,0,2,25,any,0,0,5,T_TTH_0830_0950,R_MEB_248,complex_analysis;analysis
+C820,MATH 544-A14,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1530_1620,R_MGH_389,topology;geometry
+C821,MATH 547-A14,Geometric Structures,0,2,25,any,0,0,3,T_MWF_0830_0920,R_PDL_C401,geometry;differential_geometry
+C822,MATH 550-D14,Seminar in Geometry,0,2,20,any,0,0,3,T_W_1500_1650,R_PDL_C038,geometry;seminar
+C823,MATH 580-B14,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_SMI_102,general_math;seminar
+C824,MATH 581-C14,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1130_1250,R_PDL_C038,pde;inverse_problems
+C825,MATH 584-A14,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1430_1550,R_LOW_206,numerical_analysis;linear_algebra
+C826,MATH 590-A14,Seminar in Probability,0,2,40,any,0,0,3,T_MWF_1530_1620,R_SMI_102,probability;seminar
+C827,MATH 102-A15,Algebra,0,2,40,any,0,0,5,T_MWF_1430_1520,R_LOW_206,service;algebra;precalculus
+C828,MATH 103-A15,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1330_1420,R_MEB_248,service;precalculus
+C829,MATH 111-A15,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;algebra;applications
+C830,MATH 111-B15,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;algebra;applications
+C831,MATH 112-A15,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_1130_1250,R_OTB_014,service;calculus;optimization
+C832,MATH 120-A15,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;precalculus;calculus
+C833,MATH 120-B15,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;precalculus;calculus
+C834,MATH 124-A15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus
+C835,MATH 124-B15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C836,MATH 124-C15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C837,MATH 124-D15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus
+C838,MATH 124-E15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus
+C839,MATH 124-F15,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus
+C840,MATH 125-A15,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C841,MATH 125-B15,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1430_1550,R_KNE_220,service;calculus
+C842,MATH 125-C15,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C843,MATH 126-A15,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus;geometry
+C844,MATH 126-B15,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus;geometry
+C845,MATH 126-C15,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus;geometry
+C846,MATH 126-D15,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus;geometry
+C847,MATH 134-A15,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_SMI_102,calculus;honors;linear_algebra
+C848,MATH 200-A15,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1130_1220,R_KNE_210,combinatorics;probability;number_theory
+C849,MATH 207-A15,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MW_1000_1120,R_GUG_220,differential_equations;applied_math
+C850,MATH 207-C15,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1430_1550,R_GUG_220,differential_equations;applied_math
+C851,MATH 207-D15,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1330_1420,R_SMI_102,differential_equations;applied_math
+C852,MATH 208-A15,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1230_1320,R_KNE_210,linear_algebra;applied_math
+C853,MATH 208-B15,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C854,MATH 209-A15,Linear Analysis,0,2,50,any,0,0,4,T_TTH_0830_0950,R_LOW_206,differential_equations;pde;analysis
+C855,MATH 224-A15,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1300_1420,R_KNE_210,calculus;geometry;analysis
+C856,MATH 224-B15,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_0830_0920,R_LOW_206,calculus;geometry;analysis
+C857,MATH 300-A15,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MW_1000_1120,R_AND_205,proofs;number_theory;combinatorics
+C858,MATH 300-B15,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1600_1720,R_OTB_014,proofs;number_theory;combinatorics
+C859,MATH 327-A15,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1330_1420,R_MUE_153,analysis;real_analysis
+C860,MATH 334-A15,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_SMI_102,analysis;pde;complex_analysis
+C861,MATH 342-A15,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1430_1550,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C862,MATH 381-A15,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1230_1320,R_MUE_153,combinatorics;graph_theory;optimization
+C863,MATH 394-A15,Probability I,1,10,170,any,1,0,4,T_TTH_1300_1420,R_GUG_220,probability;statistics
+C864,MATH 398-B15,Special Topics: WDRP,0,2,15,any,0,0,2,T_W_1500_1650,R_PDL_C401,general_math;seminar
+C865,MATH 402-A15,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1130_1250,R_SAV_260,algebra;number_theory
+C866,MATH 407-A15,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1430_1550,R_KNE_210,optimization;linear_algebra
+C867,MATH 424-A15,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,analysis;real_analysis
+C868,MATH 427-A15,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1600_1720,R_LOW_206,complex_analysis;analysis
+C869,MATH 441-A15,Topology,0,2,90,any,1,0,4,T_MWF_1130_1220,R_AND_205,topology;geometry
+C870,MATH 444-A15,Geometries I,0,2,50,any,0,0,4,T_MWF_0930_1020,R_LOW_206,geometry;education
+C871,MATH 461-A15,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1330_1420,R_AND_205,combinatorics;graph_theory
+C872,MATH 491-A15,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MW_1430_1550,R_LOW_206,probability;stochastic_processes
+C873,MATH 504-A15,Modern Algebra,0,2,35,any,0,0,5,T_TTH_0830_0950,R_PDL_C038,algebra;algebraic_geometry
+C874,MATH 507-A15,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1600_1720,R_MEB_248,algebra;representation_theory
+C875,MATH 514-A15,Network Optimization,0,2,20,any,0,0,3,T_W_1500_1650,R_MEB_248,optimization;combinatorics;graph_theory
+C876,MATH 521-A15,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1000_1120,R_MEB_248,probability;analysis
+C877,MATH 526-A15,Real Analysis,0,2,20,any,0,0,5,T_MWF_1130_1220,R_LOW_113,analysis;real_analysis
+C878,MATH 534-A15,Complex Analysis,0,2,25,any,0,0,5,T_W_1500_1650,R_PDL_C038,complex_analysis;analysis
+C879,MATH 544-A15,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MW_1000_1120,R_MGH_389,topology;geometry
+C880,MATH 547-A15,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1300_1420,R_MEB_248,geometry;differential_geometry
+C881,MATH 550-D15,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,geometry;seminar
+C882,MATH 580-B15,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_MUE_153,general_math;seminar
+C883,MATH 581-C15,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1300_1420,R_PDL_C401,pde;inverse_problems
+C884,MATH 584-A15,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1600_1720,R_PDL_C401,numerical_analysis;linear_algebra
+C885,MATH 590-A15,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_MEB_248,probability;seminar
+C886,MATH 102-A16,Algebra,0,2,40,any,0,0,5,T_MWF_1230_1320,R_MEB_248,service;algebra;precalculus
+C887,MATH 103-A16,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_LOW_206,service;precalculus
+C888,MATH 111-A16,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;algebra;applications
+C889,MATH 111-B16,Algebra with Applications,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_220,service;algebra;applications
+C890,MATH 112-A16,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1030_1120,R_SAV_260,service;calculus;optimization
+C891,MATH 120-A16,Precalculus,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;precalculus;calculus
+C892,MATH 120-B16,Precalculus,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_220,service;precalculus;calculus
+C893,MATH 124-A16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C894,MATH 124-B16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus
+C895,MATH 124-C16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C896,MATH 124-D16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;calculus
+C897,MATH 124-E16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus
+C898,MATH 124-F16,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C899,MATH 125-A16,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C900,MATH 125-B16,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus
+C901,MATH 125-C16,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C902,MATH 126-A16,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus;geometry
+C903,MATH 126-B16,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus;geometry
+C904,MATH 126-C16,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus;geometry
+C905,MATH 126-D16,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus;geometry
+C906,MATH 134-A16,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1530_1620,R_MEB_248,calculus;honors;linear_algebra
+C907,MATH 200-A16,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1530_1620,R_KNE_210,combinatorics;probability;number_theory
+C908,MATH 207-A16,Introduction to Differential Equations,1,10,230,any,1,0,4,T_TTH_0830_0950,R_KNE_210,differential_equations;applied_math
+C909,MATH 207-C16,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1130_1220,R_GUG_220,differential_equations;applied_math
+C910,MATH 207-D16,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1430_1550,R_MUE_153,differential_equations;applied_math
+C911,MATH 208-A16,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0930_1020,R_KNE_210,linear_algebra;applied_math
+C912,MATH 208-B16,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MW_1000_1120,R_KNE_210,linear_algebra;applied_math
+C913,MATH 209-A16,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_LOW_206,differential_equations;pde;analysis
+C914,MATH 224-A16,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_1530_1620,R_KNE_210,calculus;geometry;analysis
+C915,MATH 224-B16,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_0830_0920,R_MUE_153,calculus;geometry;analysis
+C916,MATH 300-A16,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1300_1420,R_MUE_153,proofs;number_theory;combinatorics
+C917,MATH 300-B16,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1030_1120,R_OTB_014,proofs;number_theory;combinatorics
+C918,MATH 327-A16,Introductory Real Analysis I,1,10,75,any,0,0,4,T_TTH_1000_1120,R_MUE_153,analysis;real_analysis
+C919,MATH 334-A16,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_0830_0920,R_MGH_389,analysis;pde;complex_analysis
+C920,MATH 342-A16,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1430_1520,R_MEB_248,combinatorics;number_theory;geometry;probability
+C921,MATH 381-A16,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1530_1620,R_OTB_014,combinatorics;graph_theory;optimization
+C922,MATH 394-A16,Probability I,1,10,170,any,1,0,4,T_TTH_1000_1120,R_KNE_220,probability;statistics
+C923,MATH 398-B16,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_1600_1720,R_MEB_248,general_math;seminar
+C924,MATH 402-A16,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1130_1250,R_OTB_014,algebra;number_theory
+C925,MATH 407-A16,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1430_1520,R_AND_205,optimization;linear_algebra
+C926,MATH 424-A16,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MUE_153,analysis;real_analysis
+C927,MATH 427-A16,Complex Analysis,0,2,50,any,0,0,4,T_MW_1000_1120,R_MUE_153,complex_analysis;analysis
+C928,MATH 441-A16,Topology,0,2,90,any,1,0,4,T_MWF_1130_1220,R_OTB_014,topology;geometry
+C929,MATH 444-A16,Geometries I,0,2,50,any,0,0,4,T_TTH_1600_1720,R_MUE_153,geometry;education
+C930,MATH 461-A16,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1430_1550,R_AND_205,combinatorics;graph_theory
+C931,MATH 491-A16,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1030_1120,R_LOW_206,probability;stochastic_processes
+C932,MATH 504-A16,Modern Algebra,0,2,35,any,0,0,5,T_MWF_1430_1520,R_MGH_389,algebra;algebraic_geometry
+C933,MATH 507-A16,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1000_1120,R_MEB_248,algebra;representation_theory
+C934,MATH 514-A16,Network Optimization,0,2,20,any,0,0,3,T_MWF_1230_1320,R_PDL_C401,optimization;combinatorics;graph_theory
+C935,MATH 521-A16,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,probability;analysis
+C936,MATH 526-A16,Real Analysis,0,2,20,any,0,0,5,T_MW_1430_1550,R_PDL_C401,analysis;real_analysis
+C937,MATH 534-A16,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1300_1420,R_PDL_C038,complex_analysis;analysis
+C938,MATH 544-A16,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1000_1120,R_MEB_248,topology;geometry
+C939,MATH 547-A16,Geometric Structures,0,2,25,any,0,0,3,T_TTH_1600_1720,R_LOW_206,geometry;differential_geometry
+C940,MATH 550-D16,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C401,geometry;seminar
+C941,MATH 580-B16,Departmental Colloquium,0,2,60,any,0,0,2,T_TTH_1600_1720,R_MUE_153,general_math;seminar
+C942,MATH 581-C16,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MWF_0930_1020,R_PDL_C038,pde;inverse_problems
+C943,MATH 584-A16,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1000_1120,R_LOW_206,numerical_analysis;linear_algebra
+C944,MATH 590-A16,Seminar in Probability,0,2,40,any,0,0,3,T_W_1500_1650,R_LOW_206,probability;seminar
+C945,MATH 102-A17,Algebra,0,2,40,any,0,0,5,T_F_1530_1720,R_MGH_389,service;algebra;precalculus
+C946,MATH 103-A17,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1530_1620,R_LOW_206,service;precalculus
+C947,MATH 111-A17,Algebra with Applications,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_220,service;algebra;applications
+C948,MATH 111-B17,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1130_1250,R_GUG_220,service;algebra;applications
+C949,MATH 112-A17,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_0830_0920,R_OTB_014,service;calculus;optimization
+C950,MATH 120-A17,Precalculus,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;precalculus;calculus
+C951,MATH 120-B17,Precalculus,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;precalculus;calculus
+C952,MATH 124-A17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C953,MATH 124-B17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C954,MATH 124-C17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C955,MATH 124-D17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C956,MATH 124-E17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;calculus
+C957,MATH 124-F17,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1300_1420,R_KNE_210,service;calculus
+C958,MATH 125-A17,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C959,MATH 125-B17,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1430_1550,R_KNE_220,service;calculus
+C960,MATH 125-C17,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C961,MATH 126-A17,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1300_1420,R_SMI_120,service;calculus;geometry
+C962,MATH 126-B17,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_210,service;calculus;geometry
+C963,MATH 126-C17,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus;geometry
+C964,MATH 126-D17,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus;geometry
+C965,MATH 134-A17,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,calculus;honors;linear_algebra
+C966,MATH 200-A17,Discrete Mathematics I,0,2,300,any,1,0,5,T_TTH_1000_1120,R_KNE_210,combinatorics;probability;number_theory
+C967,MATH 207-A17,Introduction to Differential Equations,1,10,230,any,1,0,4,T_F_1530_1720,R_SMI_120,differential_equations;applied_math
+C968,MATH 207-C17,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1330_1420,R_KNE_220,differential_equations;applied_math
+C969,MATH 207-D17,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1230_1320,R_MGH_389,differential_equations;applied_math
+C970,MATH 208-A17,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_F_1530_1720,R_KNE_210,linear_algebra;applied_math
+C971,MATH 208-B17,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1000_1120,R_KNE_210,linear_algebra;applied_math
+C972,MATH 209-A17,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MUE_153,differential_equations;pde;analysis
+C973,MATH 224-A17,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0930_1020,R_KNE_210,calculus;geometry;analysis
+C974,MATH 224-B17,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MUE_153,calculus;geometry;analysis
+C975,MATH 300-A17,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1430_1550,R_SMI_102,proofs;number_theory;combinatorics
+C976,MATH 300-B17,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1230_1320,R_OTB_014,proofs;number_theory;combinatorics
+C977,MATH 327-A17,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_0830_0920,R_AND_205,analysis;real_analysis
+C978,MATH 334-A17,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_F_1530_1720,R_LOW_206,analysis;pde;complex_analysis
+C979,MATH 342-A17,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1430_1520,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C980,MATH 381-A17,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_0830_0920,R_OTB_014,combinatorics;graph_theory;optimization
+C981,MATH 394-A17,Probability I,1,10,170,any,1,0,4,T_MW_1000_1120,R_KNE_210,probability;statistics
+C982,MATH 398-B17,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_PDL_C401,general_math;seminar
+C983,MATH 402-A17,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1330_1420,R_SAV_260,algebra;number_theory
+C984,MATH 407-A17,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1000_1120,R_KNE_210,optimization;linear_algebra
+C985,MATH 424-A17,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MW_1430_1550,R_LOW_206,analysis;real_analysis
+C986,MATH 427-A17,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1000_1120,R_LOW_206,complex_analysis;analysis
+C987,MATH 441-A17,Topology,0,2,90,any,1,0,4,T_TTH_1130_1250,R_MUE_153,topology;geometry
+C988,MATH 444-A17,Geometries I,0,2,50,any,0,0,4,T_TTH_1600_1720,R_SMI_102,geometry;education
+C989,MATH 461-A17,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,combinatorics;graph_theory
+C990,MATH 491-A17,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1430_1520,R_MEB_248,probability;stochastic_processes
+C991,MATH 504-A17,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1300_1420,R_MGH_389,algebra;algebraic_geometry
+C992,MATH 507-A17,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1430_1550,R_MEB_248,algebra;representation_theory
+C993,MATH 514-A17,Network Optimization,0,2,20,any,0,0,3,T_MWF_1430_1520,R_MEB_248,optimization;combinatorics;graph_theory
+C994,MATH 521-A17,Advanced Probability,0,2,15,any,0,0,3,T_W_1500_1650,R_MEB_248,probability;analysis
+C995,MATH 526-A17,Real Analysis,0,2,20,any,0,0,5,T_TTH_1000_1120,R_PDL_C038,analysis;real_analysis
+C996,MATH 534-A17,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1300_1420,R_MEB_248,complex_analysis;analysis
+C997,MATH 544-A17,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MW_1430_1550,R_LOW_206,topology;geometry
+C998,MATH 547-A17,Geometric Structures,0,2,25,any,0,0,3,T_F_1530_1720,R_PDL_C401,geometry;differential_geometry
+C999,MATH 550-D17,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1230_1320,R_LOW_113,geometry;seminar
+C1000,MATH 580-B17,Departmental Colloquium,0,2,60,any,0,0,2,T_MWF_0930_1020,R_MUE_153,general_math;seminar
+C1001,MATH 581-C17,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C401,pde;inverse_problems
+C1002,MATH 584-A17,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1300_1420,R_MEB_248,numerical_analysis;linear_algebra
+C1003,MATH 590-A17,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_MGH_389,probability;seminar
+C1004,MATH 102-A18,Algebra,0,2,40,any,0,0,5,T_MW_1000_1120,R_LOW_206,service;algebra;precalculus
+C1005,MATH 103-A18,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_MEB_248,service;precalculus
+C1006,MATH 111-A18,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;algebra;applications
+C1007,MATH 111-B18,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;algebra;applications
+C1008,MATH 112-A18,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_1130_1250,R_AND_205,service;calculus;optimization
+C1009,MATH 120-A18,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;precalculus;calculus
+C1010,MATH 120-B18,Precalculus,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;precalculus;calculus
+C1011,MATH 124-A18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_210,service;calculus
+C1012,MATH 124-B18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus
+C1013,MATH 124-C18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus
+C1014,MATH 124-D18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus
+C1015,MATH 124-E18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C1016,MATH 124-F18,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MW_1430_1550,R_KNE_220,service;calculus
+C1017,MATH 125-A18,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus
+C1018,MATH 125-B18,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1300_1420,R_KNE_220,service;calculus
+C1019,MATH 125-C18,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1530_1620,R_SMI_120,service;calculus
+C1020,MATH 126-A18,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus;geometry
+C1021,MATH 126-B18,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;calculus;geometry
+C1022,MATH 126-C18,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_220,service;calculus;geometry
+C1023,MATH 126-D18,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_210,service;calculus;geometry
+C1024,MATH 134-A18,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1230_1320,R_MEB_248,calculus;honors;linear_algebra
+C1025,MATH 200-A18,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_0930_1020,R_KNE_210,combinatorics;probability;number_theory
+C1026,MATH 207-A18,Introduction to Differential Equations,1,10,230,any,1,0,4,T_TTH_1130_1250,R_KNE_210,differential_equations;applied_math
+C1027,MATH 207-C18,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_1000_1120,R_GUG_220,differential_equations;applied_math
+C1028,MATH 207-D18,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1430_1550,R_LOW_206,differential_equations;applied_math
+C1029,MATH 208-A18,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C1030,MATH 208-B18,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1300_1420,R_KNE_210,linear_algebra;applied_math
+C1031,MATH 209-A18,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1230_1320,R_LOW_206,differential_equations;pde;analysis
+C1032,MATH 224-A18,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MW_1430_1550,R_KNE_210,calculus;geometry;analysis
+C1033,MATH 224-B18,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1130_1250,R_MUE_153,calculus;geometry;analysis
+C1034,MATH 300-A18,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1130_1250,R_AND_205,proofs;number_theory;combinatorics
+C1035,MATH 300-B18,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MW_1000_1120,R_MUE_153,proofs;number_theory;combinatorics
+C1036,MATH 327-A18,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1230_1320,R_AND_205,analysis;real_analysis
+C1037,MATH 334-A18,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1600_1720,R_MGH_389,analysis;pde;complex_analysis
+C1038,MATH 342-A18,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1000_1120,R_PDL_C401,combinatorics;number_theory;geometry;probability
+C1039,MATH 381-A18,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1600_1720,R_AND_205,combinatorics;graph_theory;optimization
+C1040,MATH 394-A18,Probability I,1,10,170,any,1,0,4,T_MWF_1530_1620,R_KNE_220,probability;statistics
+C1041,MATH 398-B18,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_0830_0920,R_PDL_C401,general_math;seminar
+C1042,MATH 402-A18,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1000_1120,R_OTB_014,algebra;number_theory
+C1043,MATH 407-A18,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1430_1550,R_SAV_260,optimization;linear_algebra
+C1044,MATH 424-A18,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_0930_1020,R_SMI_102,analysis;real_analysis
+C1045,MATH 427-A18,Complex Analysis,0,2,50,any,0,0,4,T_MWF_0930_1020,R_LOW_206,complex_analysis;analysis
+C1046,MATH 441-A18,Topology,0,2,90,any,1,0,4,T_MWF_1530_1620,R_OTB_014,topology;geometry
+C1047,MATH 444-A18,Geometries I,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MGH_389,geometry;education
+C1048,MATH 461-A18,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1230_1320,R_AND_205,combinatorics;graph_theory
+C1049,MATH 491-A18,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_TTH_1600_1720,R_MGH_389,probability;stochastic_processes
+C1050,MATH 504-A18,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1430_1550,R_MGH_389,algebra;algebraic_geometry
+C1051,MATH 507-A18,Algebraic Structures,0,2,25,any,0,0,3,T_MWF_1430_1520,R_PDL_C401,algebra;representation_theory
+C1052,MATH 514-A18,Network Optimization,0,2,20,any,0,0,3,T_W_1500_1650,R_LOW_113,optimization;combinatorics;graph_theory
+C1053,MATH 521-A18,Advanced Probability,0,2,15,any,0,0,3,T_MWF_1430_1520,R_PDL_C038,probability;analysis
+C1054,MATH 526-A18,Real Analysis,0,2,20,any,0,0,5,T_MWF_1530_1620,R_MEB_248,analysis;real_analysis
+C1055,MATH 534-A18,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1000_1120,R_MEB_248,complex_analysis;analysis
+C1056,MATH 544-A18,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1230_1320,R_LOW_206,topology;geometry
+C1057,MATH 547-A18,Geometric Structures,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C401,geometry;differential_geometry
+C1058,MATH 550-D18,Seminar in Geometry,0,2,20,any,0,0,3,T_W_1500_1650,R_LOW_113,geometry;seminar
+C1059,MATH 580-B18,Departmental Colloquium,0,2,60,any,0,0,2,T_TTH_1600_1720,R_OTB_014,general_math;seminar
+C1060,MATH 581-C18,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MW_1000_1120,R_MEB_248,pde;inverse_problems
+C1061,MATH 584-A18,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1300_1420,R_PDL_C038,numerical_analysis;linear_algebra
+C1062,MATH 590-A18,Seminar in Probability,0,2,40,any,0,0,3,T_MWF_1030_1120,R_SMI_102,probability;seminar
+C1063,MATH 102-A19,Algebra,0,2,40,any,0,0,5,T_MWF_0830_0920,R_LOW_206,service;algebra;precalculus
+C1064,MATH 103-A19,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1130_1220,R_LOW_206,service;precalculus
+C1065,MATH 111-A19,Algebra with Applications,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;algebra;applications
+C1066,MATH 111-B19,Algebra with Applications,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;algebra;applications
+C1067,MATH 112-A19,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1430_1520,R_OTB_014,service;calculus;optimization
+C1068,MATH 120-A19,Precalculus,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_220,service;precalculus;calculus
+C1069,MATH 120-B19,Precalculus,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;precalculus;calculus
+C1070,MATH 124-A19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus
+C1071,MATH 124-B19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;calculus
+C1072,MATH 124-C19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C1073,MATH 124-D19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1430_1550,R_GUG_220,service;calculus
+C1074,MATH 124-E19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus
+C1075,MATH 124-F19,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C1076,MATH 125-A19,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C1077,MATH 125-B19,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C1078,MATH 125-C19,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C1079,MATH 126-A19,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus;geometry
+C1080,MATH 126-B19,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus;geometry
+C1081,MATH 126-C19,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_GUG_220,service;calculus;geometry
+C1082,MATH 126-D19,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus;geometry
+C1083,MATH 134-A19,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MGH_389,calculus;honors;linear_algebra
+C1084,MATH 200-A19,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_0830_0920,R_KNE_210,combinatorics;probability;number_theory
+C1085,MATH 207-A19,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MW_1000_1120,R_KNE_220,differential_equations;applied_math
+C1086,MATH 207-C19,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1430_1520,R_KNE_220,differential_equations;applied_math
+C1087,MATH 207-D19,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1330_1420,R_SMI_102,differential_equations;applied_math
+C1088,MATH 208-A19,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0830_0920,R_KNE_210,linear_algebra;applied_math
+C1089,MATH 208-B19,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1000_1120,R_KNE_210,linear_algebra;applied_math
+C1090,MATH 209-A19,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MGH_389,differential_equations;pde;analysis
+C1091,MATH 224-A19,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_1230_1320,R_KNE_210,calculus;geometry;analysis
+C1092,MATH 224-B19,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1130_1220,R_SMI_102,calculus;geometry;analysis
+C1093,MATH 300-A19,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_0930_1020,R_OTB_014,proofs;number_theory;combinatorics
+C1094,MATH 300-B19,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MW_1430_1550,R_OTB_014,proofs;number_theory;combinatorics
+C1095,MATH 327-A19,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1530_1620,R_MUE_153,analysis;real_analysis
+C1096,MATH 334-A19,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_F_1530_1720,R_LOW_206,analysis;pde;complex_analysis
+C1097,MATH 342-A19,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1300_1420,R_PDL_C038,combinatorics;number_theory;geometry;probability
+C1098,MATH 381-A19,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_0830_0950,R_OTB_014,combinatorics;graph_theory;optimization
+C1099,MATH 394-A19,Probability I,1,10,170,any,1,0,4,T_TTH_1000_1120,R_KNE_210,probability;statistics
+C1100,MATH 398-B19,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_LOW_113,general_math;seminar
+C1101,MATH 402-A19,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1430_1520,R_OTB_014,algebra;number_theory
+C1102,MATH 407-A19,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1030_1120,R_KNE_210,optimization;linear_algebra
+C1103,MATH 424-A19,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1230_1320,R_SMI_102,analysis;real_analysis
+C1104,MATH 427-A19,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,complex_analysis;analysis
+C1105,MATH 441-A19,Topology,0,2,90,any,1,0,4,T_MWF_1530_1620,R_SAV_260,topology;geometry
+C1106,MATH 444-A19,Geometries I,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MGH_389,geometry;education
+C1107,MATH 461-A19,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1300_1420,R_MUE_153,combinatorics;graph_theory
+C1108,MATH 491-A19,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1530_1620,R_MGH_389,probability;stochastic_processes
+C1109,MATH 504-A19,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1600_1720,R_MEB_248,algebra;algebraic_geometry
+C1110,MATH 507-A19,Algebraic Structures,0,2,25,any,0,0,3,T_F_1530_1720,R_LOW_206,algebra;representation_theory
+C1111,MATH 514-A19,Network Optimization,0,2,20,any,0,0,3,T_MW_1430_1550,R_MEB_248,optimization;combinatorics;graph_theory
+C1112,MATH 521-A19,Advanced Probability,0,2,15,any,0,0,3,T_F_1530_1720,R_MEB_248,probability;analysis
+C1113,MATH 526-A19,Real Analysis,0,2,20,any,0,0,5,T_MW_1000_1120,R_PDL_C401,analysis;real_analysis
+C1114,MATH 534-A19,Complex Analysis,0,2,25,any,0,0,5,T_MWF_1030_1120,R_MEB_248,complex_analysis;analysis
+C1115,MATH 544-A19,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MW_1000_1120,R_PDL_C038,topology;geometry
+C1116,MATH 547-A19,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1530_1620,R_PDL_C401,geometry;differential_geometry
+C1117,MATH 550-D19,Seminar in Geometry,0,2,20,any,0,0,3,T_F_1530_1720,R_LOW_113,geometry;seminar
+C1118,MATH 580-B19,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_SMI_102,general_math;seminar
+C1119,MATH 581-C19,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C401,pde;inverse_problems
+C1120,MATH 584-A19,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MW_1430_1550,R_PDL_C401,numerical_analysis;linear_algebra
+C1121,MATH 590-A19,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_1600_1720,R_MGH_389,probability;seminar
+C1122,MATH 102-A20,Algebra,0,2,40,any,0,0,5,T_MW_1000_1120,R_LOW_206,service;algebra;precalculus
+C1123,MATH 103-A20,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1530_1620,R_MEB_248,service;precalculus
+C1124,MATH 111-A20,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_210,service;algebra;applications
+C1125,MATH 111-B20,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1130_1220,R_SMI_120,service;algebra;applications
+C1126,MATH 112-A20,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_0930_1020,R_AND_205,service;calculus;optimization
+C1127,MATH 120-A20,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_220,service;precalculus;calculus
+C1128,MATH 120-B20,Precalculus,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;precalculus;calculus
+C1129,MATH 124-A20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C1130,MATH 124-B20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C1131,MATH 124-C20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C1132,MATH 124-D20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C1133,MATH 124-E20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;calculus
+C1134,MATH 124-F20,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;calculus
+C1135,MATH 125-A20,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C1136,MATH 125-B20,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1300_1420,R_GUG_220,service;calculus
+C1137,MATH 125-C20,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C1138,MATH 126-A20,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus;geometry
+C1139,MATH 126-B20,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;calculus;geometry
+C1140,MATH 126-C20,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus;geometry
+C1141,MATH 126-D20,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus;geometry
+C1142,MATH 134-A20,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,calculus;honors;linear_algebra
+C1143,MATH 200-A20,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1230_1320,R_KNE_210,combinatorics;probability;number_theory
+C1144,MATH 207-A20,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1530_1620,R_KNE_220,differential_equations;applied_math
+C1145,MATH 207-C20,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1330_1420,R_GUG_220,differential_equations;applied_math
+C1146,MATH 207-D20,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,differential_equations;applied_math
+C1147,MATH 208-A20,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MW_1430_1550,R_KNE_210,linear_algebra;applied_math
+C1148,MATH 208-B20,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_0830_0920,R_KNE_210,linear_algebra;applied_math
+C1149,MATH 209-A20,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1330_1420,R_SMI_102,differential_equations;pde;analysis
+C1150,MATH 224-A20,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_MWF_0930_1020,R_KNE_210,calculus;geometry;analysis
+C1151,MATH 224-B20,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_0830_0950,R_MUE_153,calculus;geometry;analysis
+C1152,MATH 300-A20,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1230_1320,R_MUE_153,proofs;number_theory;combinatorics
+C1153,MATH 300-B20,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1430_1520,R_MGH_389,proofs;number_theory;combinatorics
+C1154,MATH 327-A20,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1430_1520,R_OTB_014,analysis;real_analysis
+C1155,MATH 334-A20,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MGH_389,analysis;pde;complex_analysis
+C1156,MATH 342-A20,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1430_1550,R_LOW_206,combinatorics;number_theory;geometry;probability
+C1157,MATH 381-A20,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MW_1000_1120,R_SMI_102,combinatorics;graph_theory;optimization
+C1158,MATH 394-A20,Probability I,1,10,170,any,1,0,4,T_MW_1000_1120,R_SAV_260,probability;statistics
+C1159,MATH 398-B20,Special Topics: WDRP,0,2,15,any,0,0,2,T_F_1530_1720,R_MEB_248,general_math;seminar
+C1160,MATH 402-A20,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1230_1320,R_SAV_260,algebra;number_theory
+C1161,MATH 407-A20,Linear Optimization,1,10,150,any,1,0,4,T_TTH_1300_1420,R_KNE_210,optimization;linear_algebra
+C1162,MATH 424-A20,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_SMI_102,analysis;real_analysis
+C1163,MATH 427-A20,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,complex_analysis;analysis
+C1164,MATH 441-A20,Topology,0,2,90,any,1,0,4,T_MWF_1330_1420,R_MUE_153,topology;geometry
+C1165,MATH 444-A20,Geometries I,0,2,50,any,0,0,4,T_TTH_1130_1250,R_MUE_153,geometry;education
+C1166,MATH 461-A20,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1530_1620,R_OTB_014,combinatorics;graph_theory
+C1167,MATH 491-A20,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1530_1620,R_MGH_389,probability;stochastic_processes
+C1168,MATH 504-A20,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1300_1420,R_MGH_389,algebra;algebraic_geometry
+C1169,MATH 507-A20,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1600_1720,R_LOW_206,algebra;representation_theory
+C1170,MATH 514-A20,Network Optimization,0,2,20,any,0,0,3,T_MW_1430_1550,R_MEB_248,optimization;combinatorics;graph_theory
+C1171,MATH 521-A20,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,probability;analysis
+C1172,MATH 526-A20,Real Analysis,0,2,20,any,0,0,5,T_MWF_1430_1520,R_PDL_C401,analysis;real_analysis
+C1173,MATH 534-A20,Complex Analysis,0,2,25,any,0,0,5,T_MW_1430_1550,R_MEB_248,complex_analysis;analysis
+C1174,MATH 544-A20,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_F_1530_1720,R_MEB_248,topology;geometry
+C1175,MATH 547-A20,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1330_1420,R_PDL_C401,geometry;differential_geometry
+C1176,MATH 550-D20,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_1030_1120,R_PDL_C401,geometry;seminar
+C1177,MATH 580-B20,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_OTB_014,general_math;seminar
+C1178,MATH 581-C20,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1600_1720,R_PDL_C401,pde;inverse_problems
+C1179,MATH 584-A20,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1430_1550,R_PDL_C038,numerical_analysis;linear_algebra
+C1180,MATH 590-A20,Seminar in Probability,0,2,40,any,0,0,3,T_W_1500_1650,R_MGH_389,probability;seminar
+C1181,MATH 102-A21,Algebra,0,2,40,any,0,0,5,T_MWF_1430_1520,R_SMI_102,service;algebra;precalculus
+C1182,MATH 103-A21,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1430_1520,R_LOW_206,service;precalculus
+C1183,MATH 111-A21,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_220,service;algebra;applications
+C1184,MATH 111-B21,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_0830_0950,R_SMI_120,service;algebra;applications
+C1185,MATH 112-A21,Business and Economic Calculus,0,2,90,any,1,0,5,T_MW_1430_1550,R_OTB_014,service;calculus;optimization
+C1186,MATH 120-A21,Precalculus,1,10,240,any,1,0,5,T_MW_1430_1550,R_SMI_120,service;precalculus;calculus
+C1187,MATH 120-B21,Precalculus,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;precalculus;calculus
+C1188,MATH 124-A21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C1189,MATH 124-B21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C1190,MATH 124-C21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C1191,MATH 124-D21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1300_1420,R_GUG_220,service;calculus
+C1192,MATH 124-E21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_SMI_120,service;calculus
+C1193,MATH 124-F21,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus
+C1194,MATH 125-A21,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1030_1120,R_GUG_220,service;calculus
+C1195,MATH 125-B21,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;calculus
+C1196,MATH 125-C21,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;calculus
+C1197,MATH 126-A21,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1000_1120,R_GUG_220,service;calculus;geometry
+C1198,MATH 126-B21,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1330_1420,R_SMI_120,service;calculus;geometry
+C1199,MATH 126-C21,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus;geometry
+C1200,MATH 126-D21,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus;geometry
+C1201,MATH 134-A21,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MGH_389,calculus;honors;linear_algebra
+C1202,MATH 200-A21,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_0830_0920,R_KNE_210,combinatorics;probability;number_theory
+C1203,MATH 207-A21,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1130_1220,R_KNE_210,differential_equations;applied_math
+C1204,MATH 207-C21,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1130_1220,R_SMI_120,differential_equations;applied_math
+C1205,MATH 207-D21,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1300_1420,R_MUE_153,differential_equations;applied_math
+C1206,MATH 208-A21,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1330_1420,R_KNE_210,linear_algebra;applied_math
+C1207,MATH 208-B21,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C1208,MATH 209-A21,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MGH_389,differential_equations;pde;analysis
+C1209,MATH 224-A21,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1130_1250,R_KNE_210,calculus;geometry;analysis
+C1210,MATH 224-B21,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MGH_389,calculus;geometry;analysis
+C1211,MATH 300-A21,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1430_1550,R_AND_205,proofs;number_theory;combinatorics
+C1212,MATH 300-B21,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1600_1720,R_MGH_389,proofs;number_theory;combinatorics
+C1213,MATH 327-A21,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MW_1430_1550,R_MUE_153,analysis;real_analysis
+C1214,MATH 334-A21,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MGH_389,analysis;pde;complex_analysis
+C1215,MATH 342-A21,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1300_1420,R_PDL_C038,combinatorics;number_theory;geometry;probability
+C1216,MATH 381-A21,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1000_1120,R_MUE_153,combinatorics;graph_theory;optimization
+C1217,MATH 394-A21,Probability I,1,10,170,any,1,0,4,T_TTH_1000_1120,R_KNE_220,probability;statistics
+C1218,MATH 398-B21,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_1030_1120,R_PDL_C401,general_math;seminar
+C1219,MATH 402-A21,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1130_1220,R_SAV_260,algebra;number_theory
+C1220,MATH 407-A21,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1030_1120,R_KNE_210,optimization;linear_algebra
+C1221,MATH 424-A21,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MUE_153,analysis;real_analysis
+C1222,MATH 427-A21,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1530_1620,R_SMI_102,complex_analysis;analysis
+C1223,MATH 441-A21,Topology,0,2,90,any,1,0,4,T_TTH_0830_0950,R_AND_205,topology;geometry
+C1224,MATH 444-A21,Geometries I,0,2,50,any,0,0,4,T_MWF_1330_1420,R_MUE_153,geometry;education
+C1225,MATH 461-A21,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_0830_0950,R_SMI_102,combinatorics;graph_theory
+C1226,MATH 491-A21,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1330_1420,R_MEB_248,probability;stochastic_processes
+C1227,MATH 504-A21,Modern Algebra,0,2,35,any,0,0,5,T_MW_1430_1550,R_LOW_206,algebra;algebraic_geometry
+C1228,MATH 507-A21,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C038,algebra;representation_theory
+C1229,MATH 514-A21,Network Optimization,0,2,20,any,0,0,3,T_MW_1000_1120,R_PDL_C038,optimization;combinatorics;graph_theory
+C1230,MATH 521-A21,Advanced Probability,0,2,15,any,0,0,3,T_F_1530_1720,R_PDL_C401,probability;analysis
+C1231,MATH 526-A21,Real Analysis,0,2,20,any,0,0,5,T_TTH_1300_1420,R_MEB_248,analysis;real_analysis
+C1232,MATH 534-A21,Complex Analysis,0,2,25,any,0,0,5,T_TTH_0830_0950,R_PDL_C038,complex_analysis;analysis
+C1233,MATH 544-A21,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_1430_1550,R_LOW_206,topology;geometry
+C1234,MATH 547-A21,Geometric Structures,0,2,25,any,0,0,3,T_W_1500_1650,R_PDL_C038,geometry;differential_geometry
+C1235,MATH 550-D21,Seminar in Geometry,0,2,20,any,0,0,3,T_MW_1000_1120,R_PDL_C401,geometry;seminar
+C1236,MATH 580-B21,Departmental Colloquium,0,2,60,any,0,0,2,T_MW_1000_1120,R_MUE_153,general_math;seminar
+C1237,MATH 581-C21,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1430_1550,R_PDL_C038,pde;inverse_problems
+C1238,MATH 584-A21,Numerical Linear Algebra,0,2,25,any,0,0,5,T_W_1500_1650,R_LOW_206,numerical_analysis;linear_algebra
+C1239,MATH 590-A21,Seminar in Probability,0,2,40,any,0,0,3,T_MWF_1530_1620,R_MGH_389,probability;seminar
+C1240,MATH 102-A22,Algebra,0,2,40,any,0,0,5,T_MWF_1130_1220,R_MGH_389,service;algebra;precalculus
+C1241,MATH 103-A22,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1430_1520,R_MEB_248,service;precalculus
+C1242,MATH 111-A22,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_210,service;algebra;applications
+C1243,MATH 111-B22,Algebra with Applications,1,10,240,any,1,0,5,T_TTH_1130_1250,R_KNE_220,service;algebra;applications
+C1244,MATH 112-A22,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_1600_1720,R_SAV_260,service;calculus;optimization
+C1245,MATH 120-A22,Precalculus,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;precalculus;calculus
+C1246,MATH 120-B22,Precalculus,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_210,service;precalculus;calculus
+C1247,MATH 124-A22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C1248,MATH 124-B22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus
+C1249,MATH 124-C22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus
+C1250,MATH 124-D22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_SMI_120,service;calculus
+C1251,MATH 124-E22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_220,service;calculus
+C1252,MATH 124-F22,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C1253,MATH 125-A22,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus
+C1254,MATH 125-B22,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus
+C1255,MATH 125-C22,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_220,service;calculus
+C1256,MATH 126-A22,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_W_1500_1650,R_SMI_120,service;calculus;geometry
+C1257,MATH 126-B22,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_F_1530_1720,R_KNE_220,service;calculus;geometry
+C1258,MATH 126-C22,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_210,service;calculus;geometry
+C1259,MATH 126-D22,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C1260,MATH 134-A22,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1030_1120,R_MEB_248,calculus;honors;linear_algebra
+C1261,MATH 200-A22,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1330_1420,R_KNE_210,combinatorics;probability;number_theory
+C1262,MATH 207-A22,Introduction to Differential Equations,1,10,230,any,1,0,4,T_TTH_1430_1550,R_SMI_120,differential_equations;applied_math
+C1263,MATH 207-C22,Introduction to Differential Equations,1,10,220,any,1,0,4,T_TTH_0830_0950,R_SMI_120,differential_equations;applied_math
+C1264,MATH 207-D22,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1130_1250,R_MUE_153,differential_equations;applied_math
+C1265,MATH 208-A22,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MWF_1530_1620,R_KNE_210,linear_algebra;applied_math
+C1266,MATH 208-B22,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_0830_0950,R_KNE_210,linear_algebra;applied_math
+C1267,MATH 209-A22,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1130_1250,R_MGH_389,differential_equations;pde;analysis
+C1268,MATH 224-A22,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1430_1550,R_KNE_210,calculus;geometry;analysis
+C1269,MATH 224-B22,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1130_1250,R_SMI_102,calculus;geometry;analysis
+C1270,MATH 300-A22,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_F_1530_1720,R_SMI_102,proofs;number_theory;combinatorics
+C1271,MATH 300-B22,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1130_1250,R_MGH_389,proofs;number_theory;combinatorics
+C1272,MATH 327-A22,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1430_1520,R_MUE_153,analysis;real_analysis
+C1273,MATH 334-A22,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1430_1520,R_MEB_248,analysis;pde;complex_analysis
+C1274,MATH 342-A22,Art of Problem Solving,0,2,25,any,0,0,4,T_TTH_1430_1550,R_MEB_248,combinatorics;number_theory;geometry;probability
+C1275,MATH 381-A22,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_TTH_1430_1550,R_SMI_102,combinatorics;graph_theory;optimization
+C1276,MATH 394-A22,Probability I,1,10,170,any,1,0,4,T_W_1500_1650,R_KNE_210,probability;statistics
+C1277,MATH 398-B22,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_0830_0950,R_PDL_C401,general_math;seminar
+C1278,MATH 402-A22,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1130_1250,R_GUG_220,algebra;number_theory
+C1279,MATH 407-A22,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1530_1620,R_AND_205,optimization;linear_algebra
+C1280,MATH 424-A22,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_0830_0920,R_LOW_206,analysis;real_analysis
+C1281,MATH 427-A22,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1530_1620,R_LOW_206,complex_analysis;analysis
+C1282,MATH 441-A22,Topology,0,2,90,any,1,0,4,T_MWF_1330_1420,R_AND_205,topology;geometry
+C1283,MATH 444-A22,Geometries I,0,2,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,geometry;education
+C1284,MATH 461-A22,Combinatorial Theory I,0,2,80,any,1,0,4,T_TTH_1300_1420,R_SMI_102,combinatorics;graph_theory
+C1285,MATH 491-A22,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_0830_0920,R_LOW_206,probability;stochastic_processes
+C1286,MATH 504-A22,Modern Algebra,0,2,35,any,0,0,5,T_MWF_1030_1120,R_MGH_389,algebra;algebraic_geometry
+C1287,MATH 507-A22,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1000_1120,R_MEB_248,algebra;representation_theory
+C1288,MATH 514-A22,Network Optimization,0,2,20,any,0,0,3,T_TTH_1430_1550,R_MEB_248,optimization;combinatorics;graph_theory
+C1289,MATH 521-A22,Advanced Probability,0,2,15,any,0,0,3,T_MW_1000_1120,R_PDL_C401,probability;analysis
+C1290,MATH 526-A22,Real Analysis,0,2,20,any,0,0,5,T_MW_1000_1120,R_PDL_C401,analysis;real_analysis
+C1291,MATH 534-A22,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1300_1420,R_MEB_248,complex_analysis;analysis
+C1292,MATH 544-A22,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MW_1430_1550,R_MEB_248,topology;geometry
+C1293,MATH 547-A22,Geometric Structures,0,2,25,any,0,0,3,T_MW_1430_1550,R_PDL_C038,geometry;differential_geometry
+C1294,MATH 550-D22,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_LOW_113,geometry;seminar
+C1295,MATH 580-B22,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_MUE_153,general_math;seminar
+C1296,MATH 581-C22,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_0830_0950,R_PDL_C401,pde;inverse_problems
+C1297,MATH 584-A22,Numerical Linear Algebra,0,2,25,any,0,0,5,T_W_1500_1650,R_PDL_C401,numerical_analysis;linear_algebra
+C1298,MATH 590-A22,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_LOW_206,probability;seminar
+C1299,MATH 102-A23,Algebra,0,2,40,any,0,0,5,T_MWF_0830_0920,R_MGH_389,service;algebra;precalculus
+C1300,MATH 103-A23,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0930_1020,R_MEB_248,service;precalculus
+C1301,MATH 111-A23,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0930_1020,R_KNE_210,service;algebra;applications
+C1302,MATH 111-B23,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;algebra;applications
+C1303,MATH 112-A23,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_1230_1320,R_SAV_260,service;calculus;optimization
+C1304,MATH 120-A23,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_SMI_120,service;precalculus;calculus
+C1305,MATH 120-B23,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;precalculus;calculus
+C1306,MATH 124-A23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_GUG_220,service;calculus
+C1307,MATH 124-B23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_SMI_120,service;calculus
+C1308,MATH 124-C23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1600_1720,R_KNE_210,service;calculus
+C1309,MATH 124-D23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_220,service;calculus
+C1310,MATH 124-E23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C1311,MATH 124-F23,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C1312,MATH 125-A23,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1430_1520,R_SMI_120,service;calculus
+C1313,MATH 125-B23,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;calculus
+C1314,MATH 125-C23,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MW_1430_1550,R_KNE_220,service;calculus
+C1315,MATH 126-A23,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus;geometry
+C1316,MATH 126-B23,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C1317,MATH 126-C23,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C1318,MATH 126-D23,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_TTH_1130_1250,R_SMI_120,service;calculus;geometry
+C1319,MATH 134-A23,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_TTH_1000_1120,R_MGH_389,calculus;honors;linear_algebra
+C1320,MATH 200-A23,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_0930_1020,R_KNE_210,combinatorics;probability;number_theory
+C1321,MATH 207-A23,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_1530_1620,R_KNE_220,differential_equations;applied_math
+C1322,MATH 207-C23,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1130_1220,R_KNE_220,differential_equations;applied_math
+C1323,MATH 207-D23,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_1030_1120,R_LOW_206,differential_equations;applied_math
+C1324,MATH 208-A23,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1000_1120,R_KNE_210,linear_algebra;applied_math
+C1325,MATH 208-B23,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1000_1120,R_KNE_210,linear_algebra;applied_math
+C1326,MATH 209-A23,Linear Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_MUE_153,differential_equations;pde;analysis
+C1327,MATH 224-A23,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1000_1120,R_KNE_210,calculus;geometry;analysis
+C1328,MATH 224-B23,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1430_1550,R_SMI_102,calculus;geometry;analysis
+C1329,MATH 300-A23,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_TTH_1000_1120,R_MUE_153,proofs;number_theory;combinatorics
+C1330,MATH 300-B23,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1130_1250,R_SMI_102,proofs;number_theory;combinatorics
+C1331,MATH 327-A23,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1530_1620,R_SMI_102,analysis;real_analysis
+C1332,MATH 334-A23,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_MWF_1530_1620,R_LOW_206,analysis;pde;complex_analysis
+C1333,MATH 342-A23,Art of Problem Solving,0,2,25,any,0,0,4,T_F_1530_1720,R_MEB_248,combinatorics;number_theory;geometry;probability
+C1334,MATH 381-A23,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,combinatorics;graph_theory;optimization
+C1335,MATH 394-A23,Probability I,1,10,170,any,1,0,4,T_MWF_1130_1220,R_KNE_210,probability;statistics
+C1336,MATH 398-B23,Special Topics: WDRP,0,2,15,any,0,0,2,T_TTH_1600_1720,R_PDL_C038,general_math;seminar
+C1337,MATH 402-A23,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_0930_1020,R_SAV_260,algebra;number_theory
+C1338,MATH 407-A23,Linear Optimization,1,10,150,any,1,0,4,T_MW_1000_1120,R_SAV_260,optimization;linear_algebra
+C1339,MATH 424-A23,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MGH_389,analysis;real_analysis
+C1340,MATH 427-A23,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MUE_153,complex_analysis;analysis
+C1341,MATH 441-A23,Topology,0,2,90,any,1,0,4,T_W_1500_1650,R_OTB_014,topology;geometry
+C1342,MATH 444-A23,Geometries I,0,2,50,any,0,0,4,T_TTH_1300_1420,R_SMI_102,geometry;education
+C1343,MATH 461-A23,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1130_1220,R_MUE_153,combinatorics;graph_theory
+C1344,MATH 491-A23,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_MWF_1130_1220,R_SMI_102,probability;stochastic_processes
+C1345,MATH 504-A23,Modern Algebra,0,2,35,any,0,0,5,T_TTH_1000_1120,R_PDL_C038,algebra;algebraic_geometry
+C1346,MATH 507-A23,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1430_1550,R_LOW_206,algebra;representation_theory
+C1347,MATH 514-A23,Network Optimization,0,2,20,any,0,0,3,T_F_1530_1720,R_PDL_C401,optimization;combinatorics;graph_theory
+C1348,MATH 521-A23,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1430_1550,R_MEB_248,probability;analysis
+C1349,MATH 526-A23,Real Analysis,0,2,20,any,0,0,5,T_TTH_1300_1420,R_PDL_C401,analysis;real_analysis
+C1350,MATH 534-A23,Complex Analysis,0,2,25,any,0,0,5,T_F_1530_1720,R_MEB_248,complex_analysis;analysis
+C1351,MATH 544-A23,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_TTH_0830_0950,R_MGH_389,topology;geometry
+C1352,MATH 547-A23,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1130_1220,R_MEB_248,geometry;differential_geometry
+C1353,MATH 550-D23,Seminar in Geometry,0,2,20,any,0,0,3,T_MWF_0930_1020,R_LOW_113,geometry;seminar
+C1354,MATH 580-B23,Departmental Colloquium,0,2,60,any,0,0,2,T_W_1500_1650,R_MUE_153,general_math;seminar
+C1355,MATH 581-C23,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_TTH_1000_1120,R_LOW_206,pde;inverse_problems
+C1356,MATH 584-A23,Numerical Linear Algebra,0,2,25,any,0,0,5,T_TTH_1430_1550,R_MEB_248,numerical_analysis;linear_algebra
+C1357,MATH 590-A23,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_SMI_102,probability;seminar
+C1358,MATH 102-A24,Algebra,0,2,40,any,0,0,5,T_MWF_1130_1220,R_SMI_102,service;algebra;precalculus
+C1359,MATH 103-A24,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_0830_0920,R_MEB_248,service;precalculus
+C1360,MATH 111-A24,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_KNE_210,service;algebra;applications
+C1361,MATH 111-B24,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;algebra;applications
+C1362,MATH 112-A24,Business and Economic Calculus,0,2,90,any,1,0,5,T_TTH_0830_0950,R_OTB_014,service;calculus;optimization
+C1363,MATH 120-A24,Precalculus,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;precalculus;calculus
+C1364,MATH 120-B24,Precalculus,1,10,240,any,1,0,5,T_MWF_1330_1420,R_GUG_220,service;precalculus;calculus
+C1365,MATH 124-A24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1530_1620,R_KNE_220,service;calculus
+C1366,MATH 124-B24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;calculus
+C1367,MATH 124-C24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1000_1120,R_KNE_220,service;calculus
+C1368,MATH 124-D24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C1369,MATH 124-E24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;calculus
+C1370,MATH 124-F24,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_0930_1020,R_SMI_120,service;calculus
+C1371,MATH 125-A24,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus
+C1372,MATH 125-B24,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_210,service;calculus
+C1373,MATH 125-C24,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_KNE_220,service;calculus
+C1374,MATH 126-A24,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1030_1120,R_KNE_210,service;calculus;geometry
+C1375,MATH 126-B24,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1030_1120,R_SMI_120,service;calculus;geometry
+C1376,MATH 126-C24,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MW_1000_1120,R_GUG_220,service;calculus;geometry
+C1377,MATH 126-D24,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_GUG_220,service;calculus;geometry
+C1378,MATH 134-A24,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1330_1420,R_MEB_248,calculus;honors;linear_algebra
+C1379,MATH 200-A24,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1530_1620,R_KNE_210,combinatorics;probability;number_theory
+C1380,MATH 207-A24,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_0830_0920,R_GUG_220,differential_equations;applied_math
+C1381,MATH 207-C24,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MWF_1030_1120,R_GUG_220,differential_equations;applied_math
+C1382,MATH 207-D24,Introduction to Differential Equations,1,10,50,any,0,0,4,T_MWF_0830_0920,R_SMI_102,differential_equations;applied_math
+C1383,MATH 208-A24,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_MW_1430_1550,R_KNE_210,linear_algebra;applied_math
+C1384,MATH 208-B24,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C1385,MATH 209-A24,Linear Analysis,0,2,50,any,0,0,4,T_MWF_1430_1520,R_SMI_102,differential_equations;pde;analysis
+C1386,MATH 224-A24,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1130_1250,R_KNE_210,calculus;geometry;analysis
+C1387,MATH 224-B24,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_MWF_1430_1520,R_MGH_389,calculus;geometry;analysis
+C1388,MATH 300-A24,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MW_1000_1120,R_OTB_014,proofs;number_theory;combinatorics
+C1389,MATH 300-B24,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_MWF_1330_1420,R_MUE_153,proofs;number_theory;combinatorics
+C1390,MATH 327-A24,Introductory Real Analysis I,1,10,75,any,0,0,4,T_TTH_1430_1550,R_AND_205,analysis;real_analysis
+C1391,MATH 334-A24,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1000_1120,R_LOW_206,analysis;pde;complex_analysis
+C1392,MATH 342-A24,Art of Problem Solving,0,2,25,any,0,0,4,T_MWF_1030_1120,R_LOW_206,combinatorics;number_theory;geometry;probability
+C1393,MATH 381-A24,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MW_1000_1120,R_MUE_153,combinatorics;graph_theory;optimization
+C1394,MATH 394-A24,Probability I,1,10,170,any,1,0,4,T_MWF_1130_1220,R_KNE_210,probability;statistics
+C1395,MATH 398-B24,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_0930_1020,R_PDL_C401,general_math;seminar
+C1396,MATH 402-A24,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_TTH_1000_1120,R_SAV_260,algebra;number_theory
+C1397,MATH 407-A24,Linear Optimization,1,10,150,any,1,0,4,T_MWF_1430_1520,R_GUG_220,optimization;linear_algebra
+C1398,MATH 424-A24,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_1130_1250,R_LOW_206,analysis;real_analysis
+C1399,MATH 427-A24,Complex Analysis,0,2,50,any,0,0,4,T_TTH_1430_1550,R_SMI_102,complex_analysis;analysis
+C1400,MATH 441-A24,Topology,0,2,90,any,1,0,4,T_TTH_1300_1420,R_MUE_153,topology;geometry
+C1401,MATH 444-A24,Geometries I,0,2,50,any,0,0,4,T_MWF_1030_1120,R_MGH_389,geometry;education
+C1402,MATH 461-A24,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1130_1220,R_SMI_102,combinatorics;graph_theory
+C1403,MATH 491-A24,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_W_1500_1650,R_LOW_206,probability;stochastic_processes
+C1404,MATH 504-A24,Modern Algebra,0,2,35,any,0,0,5,T_F_1530_1720,R_MEB_248,algebra;algebraic_geometry
+C1405,MATH 507-A24,Algebraic Structures,0,2,25,any,0,0,3,T_MW_1430_1550,R_MEB_248,algebra;representation_theory
+C1406,MATH 514-A24,Network Optimization,0,2,20,any,0,0,3,T_TTH_1000_1120,R_PDL_C038,optimization;combinatorics;graph_theory
+C1407,MATH 521-A24,Advanced Probability,0,2,15,any,0,0,3,T_TTH_1300_1420,R_MEB_248,probability;analysis
+C1408,MATH 526-A24,Real Analysis,0,2,20,any,0,0,5,T_MWF_1330_1420,R_MEB_248,analysis;real_analysis
+C1409,MATH 534-A24,Complex Analysis,0,2,25,any,0,0,5,T_TTH_1430_1550,R_LOW_206,complex_analysis;analysis
+C1410,MATH 544-A24,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1030_1120,R_MGH_389,topology;geometry
+C1411,MATH 547-A24,Geometric Structures,0,2,25,any,0,0,3,T_W_1500_1650,R_PDL_C038,geometry;differential_geometry
+C1412,MATH 550-D24,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C401,geometry;seminar
+C1413,MATH 580-B24,Departmental Colloquium,0,2,60,any,0,0,2,T_F_1530_1720,R_SMI_102,general_math;seminar
+C1414,MATH 581-C24,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_W_1500_1650,R_PDL_C401,pde;inverse_problems
+C1415,MATH 584-A24,Numerical Linear Algebra,0,2,25,any,0,0,5,T_W_1500_1650,R_LOW_206,numerical_analysis;linear_algebra
+C1416,MATH 590-A24,Seminar in Probability,0,2,40,any,0,0,3,T_F_1530_1720,R_MGH_389,probability;seminar
+C1417,MATH 102-A25,Algebra,0,2,40,any,0,0,5,T_MWF_1530_1620,R_SMI_102,service;algebra;precalculus
+C1418,MATH 103-A25,Introduction to Elementary Functions,0,2,40,any,0,0,5,T_MWF_1430_1520,R_MEB_248,service;precalculus
+C1419,MATH 111-A25,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;algebra;applications
+C1420,MATH 111-B25,Algebra with Applications,1,10,240,any,1,0,5,T_MWF_1230_1320,R_KNE_220,service;algebra;applications
+C1421,MATH 112-A25,Business and Economic Calculus,0,2,90,any,1,0,5,T_MWF_0930_1020,R_MUE_153,service;calculus;optimization
+C1422,MATH 120-A25,Precalculus,1,10,240,any,1,0,5,T_MW_1000_1120,R_KNE_210,service;precalculus;calculus
+C1423,MATH 120-B25,Precalculus,1,10,240,any,1,0,5,T_MWF_0930_1020,R_GUG_220,service;precalculus;calculus
+C1424,MATH 124-A25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1000_1120,R_SMI_120,service;calculus
+C1425,MATH 124-B25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1130_1250,R_GUG_220,service;calculus
+C1426,MATH 124-C25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_0830_0950,R_KNE_220,service;calculus
+C1427,MATH 124-D25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1430_1520,R_KNE_210,service;calculus
+C1428,MATH 124-E25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_TTH_1300_1420,R_SMI_120,service;calculus
+C1429,MATH 124-F25,Calculus with Analytic Geometry I,1,10,240,any,1,0,5,T_MWF_1330_1420,R_KNE_220,service;calculus
+C1430,MATH 125-A25,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C1431,MATH 125-B25,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus
+C1432,MATH 125-C25,Calculus with Analytic Geometry II,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus
+C1433,MATH 126-A25,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C1434,MATH 126-B25,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1230_1320,R_GUG_220,service;calculus;geometry
+C1435,MATH 126-C25,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_0830_0920,R_SMI_120,service;calculus;geometry
+C1436,MATH 126-D25,Calculus with Analytic Geometry III,1,10,240,any,1,0,5,T_MWF_1130_1220,R_GUG_220,service;calculus;geometry
+C1437,MATH 134-A25,Accelerated Honors Calculus,0,2,45,any,0,0,5,T_MWF_1130_1220,R_LOW_206,calculus;honors;linear_algebra
+C1438,MATH 200-A25,Discrete Mathematics I,0,2,300,any,1,0,5,T_MWF_1530_1620,R_KNE_210,combinatorics;probability;number_theory
+C1439,MATH 207-A25,Introduction to Differential Equations,1,10,230,any,1,0,4,T_MWF_0930_1020,R_GUG_220,differential_equations;applied_math
+C1440,MATH 207-C25,Introduction to Differential Equations,1,10,220,any,1,0,4,T_MW_1430_1550,R_KNE_220,differential_equations;applied_math
+C1441,MATH 207-D25,Introduction to Differential Equations,1,10,50,any,0,0,4,T_TTH_1000_1120,R_MGH_389,differential_equations;applied_math
+C1442,MATH 208-A25,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1430_1550,R_KNE_210,linear_algebra;applied_math
+C1443,MATH 208-B25,Matrix Algebra with Applications,1,10,440,any,1,0,4,T_TTH_1130_1250,R_KNE_210,linear_algebra;applied_math
+C1444,MATH 209-A25,Linear Analysis,0,2,50,any,0,0,4,T_W_1500_1650,R_SMI_102,differential_equations;pde;analysis
+C1445,MATH 224-A25,Advanced Multivariable Calculus,0,2,305,any,1,0,4,T_TTH_1130_1250,R_KNE_210,calculus;geometry;analysis
+C1446,MATH 224-B25,Advanced Multivariable Calculus,0,2,50,any,0,0,4,T_TTH_1430_1550,R_SMI_102,calculus;geometry;analysis
+C1447,MATH 300-A25,Introduction to Mathematical Reasoning,1,10,80,any,1,0,4,T_MWF_1030_1120,R_SMI_102,proofs;number_theory;combinatorics
+C1448,MATH 300-B25,Introduction to Mathematical Reasoning,1,10,70,any,0,0,4,T_TTH_1600_1720,R_MGH_389,proofs;number_theory;combinatorics
+C1449,MATH 327-A25,Introductory Real Analysis I,1,10,75,any,0,0,4,T_MWF_1230_1320,R_OTB_014,analysis;real_analysis
+C1450,MATH 334-A25,Honors Accelerated Advanced Calculus,0,2,45,any,0,0,5,T_TTH_1130_1250,R_MEB_248,analysis;pde;complex_analysis
+C1451,MATH 342-A25,Art of Problem Solving,0,2,25,any,0,0,4,T_MW_1000_1120,R_MEB_248,combinatorics;number_theory;geometry;probability
+C1452,MATH 381-A25,Discrete Mathematical Modeling,1,10,80,any,1,0,4,T_MWF_1430_1520,R_OTB_014,combinatorics;graph_theory;optimization
+C1453,MATH 394-A25,Probability I,1,10,170,any,1,0,4,T_MWF_1430_1520,R_KNE_210,probability;statistics
+C1454,MATH 398-B25,Special Topics: WDRP,0,2,15,any,0,0,2,T_MWF_1130_1220,R_MEB_248,general_math;seminar
+C1455,MATH 402-A25,Introduction to Modern Algebra,1,10,100,any,1,0,4,T_MWF_1030_1120,R_GUG_220,algebra;number_theory
+C1456,MATH 407-A25,Linear Optimization,1,10,150,any,1,0,4,T_MWF_0830_0920,R_KNE_210,optimization;linear_algebra
+C1457,MATH 424-A25,Fundamental Concepts of Analysis,0,2,50,any,0,0,4,T_TTH_0830_0950,R_LOW_206,analysis;real_analysis
+C1458,MATH 427-A25,Complex Analysis,0,2,50,any,0,0,4,T_MWF_1130_1220,R_MGH_389,complex_analysis;analysis
+C1459,MATH 441-A25,Topology,0,2,90,any,1,0,4,T_TTH_1000_1120,R_SAV_260,topology;geometry
+C1460,MATH 444-A25,Geometries I,0,2,50,any,0,0,4,T_MWF_1030_1120,R_SMI_102,geometry;education
+C1461,MATH 461-A25,Combinatorial Theory I,0,2,80,any,1,0,4,T_MWF_1430_1520,R_SMI_102,combinatorics;graph_theory
+C1462,MATH 491-A25,Introduction to Stochastic Processes I,0,2,45,any,0,0,4,T_F_1530_1720,R_SMI_102,probability;stochastic_processes
+C1463,MATH 504-A25,Modern Algebra,0,2,35,any,0,0,5,T_F_1530_1720,R_MEB_248,algebra;algebraic_geometry
+C1464,MATH 507-A25,Algebraic Structures,0,2,25,any,0,0,3,T_TTH_1130_1250,R_LOW_206,algebra;representation_theory
+C1465,MATH 514-A25,Network Optimization,0,2,20,any,0,0,3,T_TTH_0830_0950,R_PDL_C038,optimization;combinatorics;graph_theory
+C1466,MATH 521-A25,Advanced Probability,0,2,15,any,0,0,3,T_MWF_1330_1420,R_LOW_113,probability;analysis
+C1467,MATH 526-A25,Real Analysis,0,2,20,any,0,0,5,T_MWF_1530_1620,R_LOW_113,analysis;real_analysis
+C1468,MATH 534-A25,Complex Analysis,0,2,25,any,0,0,5,T_W_1500_1650,R_PDL_C401,complex_analysis;analysis
+C1469,MATH 544-A25,Topology and Geometry of Manifolds,0,2,35,any,0,0,5,T_MWF_1430_1520,R_PDL_C038,topology;geometry
+C1470,MATH 547-A25,Geometric Structures,0,2,25,any,0,0,3,T_MWF_1230_1320,R_PDL_C401,geometry;differential_geometry
+C1471,MATH 550-D25,Seminar in Geometry,0,2,20,any,0,0,3,T_TTH_1600_1720,R_PDL_C038,geometry;seminar
+C1472,MATH 580-B25,Departmental Colloquium,0,2,60,any,0,0,2,T_TTH_1600_1720,R_MUE_153,general_math;seminar
+C1473,MATH 581-C25,Special Topics: Inverse Problems and PDE,0,2,25,any,0,0,3,T_MWF_1330_1420,R_PDL_C038,pde;inverse_problems
+C1474,MATH 584-A25,Numerical Linear Algebra,0,2,25,any,0,0,5,T_MWF_1130_1220,R_MEB_248,numerical_analysis;linear_algebra
+C1475,MATH 590-A25,Seminar in Probability,0,2,40,any,0,0,3,T_TTH_0830_0950,R_SMI_102,probability;seminar
