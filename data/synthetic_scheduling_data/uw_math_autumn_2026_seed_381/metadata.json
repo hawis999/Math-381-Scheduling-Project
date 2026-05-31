@@ -3,6 +3,11 @@
   "seed": 381,
   "source": "UW Math Autumn 2026 scrape, lecture-like sections only",
   "time_policy": "Fixed randomized times generated before solving",
+  "stress": false,
+  "scale": 1,
+  "base_sections": 59,
+  "generated_sections": 59,
+  "generated_professors": 104,
   "required_math_course_numbers": [
     "111",
     "120",

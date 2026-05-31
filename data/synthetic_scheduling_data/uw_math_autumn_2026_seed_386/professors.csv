@@ -36,20 +36,70 @@ P034,Elena Pezzoli,0,3,MATH,teaching,logic;computer_science;calculus,interest_fi
 P035,Daniel Pollack,0,1,MATH,professor,differential_geometry;general_relativity;pde,interest_first
 P036,Piotr Pstragowski,0,2,MATH,professor,algebraic_topology,interest_first
 P037,Steffen Rohde,0,2,MATH,professor,complex_analysis;numerical_analysis;probability,interest_first
-P038,Thomas Rothvoss,0,2,MATH,professor,optimization;theoretical_computer_science,interest_first
-P039,Danny Shi,0,2,MATH,professor,algebraic_topology;topology,interest_first
-P040,Farbod Shokrieh,0,2,MATH,professor,algebra;algebraic_geometry;combinatorics;number_theory,interest_first
-P041,Hart Smith,0,2,MATH,professor,pde;analysis;real_analysis,time_first
-P042,Stefan Steinerberger,0,2,MATH,professor,applied_math;combinatorics;data_science;pde;probability;analysis,interest_first
-P043,Zhixu Su,0,3,MATH,teaching,topology;geometry;education,interest_first
-P044,Jinwoo Sung,0,2,MATH,professor,complex_analysis;probability,time_first
-P045,Rekha Thomas,0,2,MATH,professor,optimization,interest_first
-P046,Tatiana Toro,0,2,MATH,professor,geometric_measure_theory;pde;analysis,time_first
-P047,Gunther Uhlmann,0,2,MATH,professor,pde;inverse_problems,time_first
-P048,Cynthia Vinzant,0,2,MATH,professor,optimization;algebraic_geometry,interest_first
-P049,Bianca Viray,0,2,MATH,professor,algebraic_geometry;number_theory,interest_first
-P050,Bobby Wilson,0,2,MATH,professor,geometric_measure_theory;pde;analysis,time_first
-P051,Yu Yuan,0,2,MATH,professor,differential_geometry;pde,interest_first
-P052,James Zhang,0,2,MATH,professor,algebra,interest_first
-P053,Jonathan Zhu,0,2,MATH,professor,differential_geometry;pde,interest_first
-P054,General Lecturer Pool,0,6,MATH,lecturer,general_math;service;calculus;precalculus;education,time_first
+P038,François Clément,0,1,MATH,postdoctoral,optimization,interest_first
+P039,David Aldous,0,1,MATH,affiliate,general_math;service;algebra;calculus;precalculus;education,interest_first
+P040,Christian Gorski,0,1,MATH,postdoctoral,general_math;service;algebra;calculus;precalculus;education,interest_first
+P041,Elena Hafner,0,1,MATH,postdoctoral,general_math;service;algebra;calculus;precalculus;education,time_first
+P042,Andy Heald,0,2,MATH,lecturer,algebra;number_theory,interest_first
+P043,Christopher Hoffman,0,2,MATH,professor,probability,interest_first
+P044,Alexander Holroyd,0,1,MATH,affiliate,probability,time_first
+P045,John Garnett,0,1,MATH,affiliate,complex_analysis,interest_first
+P046,Ken Goodearl,0,1,MATH,affiliate,noncommutative_algebra;algebra,time_first
+P047,Steven Klee,0,1,MATH,affiliate,algebraic_combinatorics;geometric_combinatorics;combinatorics,time_first
+P048,Henry Kvinge,0,1,MATH,affiliate,geometry;algebra;topology;data_science;representation_theory,interest_first
+P049,Kristin Lauter,0,1,MATH,affiliate,algebraic_geometry;cryptography;number_theory,interest_first
+P050,Yutao Liu,0,1,MATH,postdoctoral,general_math;service;algebra;calculus;precalculus;education,time_first
+P051,Eyal Lubetzky,0,1,MATH,affiliate,combinatorics;graph_theory;probability,interest_first
+P052,Mehran Mesbahi,0,1,MATH,adjunct,optimization;applied_math,interest_first
+P053,Kyle Ormsby,0,1,MATH,affiliate,algebraic_geometry;algebraic_topology;combinatorics,interest_first
+P054,Soumik Pal,0,2,MATH,professor,probability,time_first
+P055,Michele Pernice,0,1,MATH,acting,general_math;service;algebra;calculus;precalculus;education,time_first
+P056,Larry Pierce,0,1,MATH,lecturer,medical_imaging;applied_math,interest_first
+P057,Linda Simonsen,0,1,MATH,adjunct,general_math;service;algebra;calculus;precalculus;education,time_first
+P058,Mariana Smit Vega Garcia,0,1,MATH,affiliate,general_math;service;algebra;calculus;precalculus;education,time_first
+P059,Boris Solomyak,0,1,MATH,affiliate,fractals;analysis,time_first
+P060,Tom Trogdon,0,1,MATH,adjunct,applied_math;numerical_analysis,time_first
+P061,David Bruce Wilson,0,1,MATH,affiliate,combinatorics;probability,interest_first
+P062,Libin Zhu,0,1,MATH,postdoctoral,general_math;service;algebra;calculus;precalculus;education,interest_first
+P063,Judith M. Arms,0,1,MATH,emeritus,general_math;service;algebra;calculus;precalculus;education,time_first
+P064,James Burke,0,1,MATH,emeritus,general_math;service;algebra;calculus;precalculus;education,time_first
+P065,Ethan Devinatz,0,1,MATH,emeritus,algebraic_topology,time_first
+P066,Thomas E. Duchamp,0,1,MATH,emeritus,differential_geometry,time_first
+P067,K. Bruce Erickson,0,1,MATH,emeritus,probability,interest_first
+P068,Gerald B. Folland,0,1,MATH,emeritus,real_analysis;analysis,time_first
+P069,Ramesh A. Gangolli,0,1,MATH,emeritus,probability;real_analysis;representation_theory,time_first
+P070,C. Robin Graham,0,1,MATH,emeritus,differential_geometry;mathematical_physics;pde,interest_first
+P071,Anne Greenbaum,0,1,MATH,emeritus,general_math;service;algebra;calculus;precalculus;education,time_first
+P072,Ralph Greenberg,0,1,MATH,emeritus,number_theory,time_first
+P073,Ron Irving,0,1,MATH,emeritus,noncommutative_algebra;representation_theory;algebra,time_first
+P074,James R. King,0,1,MATH,emeritus,general_math;service;algebra;calculus;precalculus;education,time_first
+P075,John M. Lee,0,1,MATH,emeritus,differential_geometry;general_relativity;geometry;pde,interest_first
+P076,Doug Lind,0,1,MATH,emeritus,dynamical_systems,time_first
+P077,Don Marshall,0,1,MATH,emeritus,complex_analysis;analysis;numerical_analysis,interest_first
+P078,Steven G. Monk,0,1,MATH,emeritus,education,time_first
+P079,Vilnis Ozols,0,1,MATH,emeritus,representation_theory,interest_first
+P080,R. Tyrrell Rockafellar,0,1,MATH,emeritus,optimization,time_first
+P081,Jack Segal,0,1,MATH,emeritus,algebraic_topology,time_first
+P082,S. Paul Smith,0,1,MATH,emeritus,algebra;algebraic_geometry;noncommutative_algebra;representation_theory,interest_first
+P083,E. Lee Stout,0,1,MATH,emeritus,complex_analysis,interest_first
+P084,John Sylvester,0,1,MATH,emeritus,pde,time_first
+P085,Jennifer Taggart,0,1,MATH,emeritus,number_theory,interest_first
+P086,Selim Tuncel,0,1,MATH,emeritus,dynamical_systems,time_first
+P087,Virginia M. Warfield,0,1,MATH,emeritus,education;probability,time_first
+P088,Garth Warner,0,1,MATH,emeritus,representation_theory,interest_first
+P089,Thomas Rothvoss,0,2,MATH,professor,optimization;theoretical_computer_science,time_first
+P090,Danny Shi,0,2,MATH,professor,algebraic_topology;topology,interest_first
+P091,Farbod Shokrieh,0,2,MATH,professor,algebra;algebraic_geometry;combinatorics;number_theory,interest_first
+P092,Hart Smith,0,2,MATH,professor,pde;analysis;real_analysis,interest_first
+P093,Stefan Steinerberger,0,2,MATH,professor,applied_math;combinatorics;data_science;pde;probability;analysis,interest_first
+P094,Zhixu Su,0,3,MATH,teaching,topology;geometry;education,time_first
+P095,Jinwoo Sung,0,2,MATH,professor,complex_analysis;probability,interest_first
+P096,Rekha Thomas,0,2,MATH,professor,optimization,interest_first
+P097,Tatiana Toro,0,2,MATH,professor,geometric_measure_theory;pde;analysis,interest_first
+P098,Gunther Uhlmann,0,2,MATH,professor,pde;inverse_problems,interest_first
+P099,Cynthia Vinzant,0,2,MATH,professor,optimization;algebraic_geometry,interest_first
+P100,Bianca Viray,0,2,MATH,professor,algebraic_geometry;number_theory,interest_first
+P101,Bobby Wilson,0,2,MATH,professor,geometric_measure_theory;pde;analysis,time_first
+P102,Yu Yuan,0,2,MATH,professor,differential_geometry;pde,time_first
+P103,James Zhang,0,2,MATH,professor,algebra,interest_first
+P104,Jonathan Zhu,0,2,MATH,professor,differential_geometry;pde,time_first

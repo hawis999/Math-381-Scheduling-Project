@@ -743,7 +743,7 @@ def animate_annealing(
     (professor, course, timeslot) triple.
 
     Top right: objective and violation count over time.
-    Bottom right: temperature and uphill acceptance probability.
+    Bottom right: temperature.
     """
     if not history:
         print("\nno annealing history to visualize")
@@ -818,12 +818,15 @@ def animate_annealing(
     ]
     violations = [step.current_violations for step in history]
     temps = [step.temperature for step in history]
-    uphill_acceptance = [
-        step.accept_probability if step.delta > 0 else float("nan")
-        for step in history
-    ]
 
-    ax_obj.plot(iters, current_objectives, color="tab:blue", linewidth=0.6, alpha=0.35)
+    ax_obj.plot(
+        iters,
+        current_objectives,
+        color="tab:blue",
+        linewidth=0.6,
+        alpha=0.35,
+        label="_nolegend_",
+    )
     current_obj_line, = ax_obj.plot([], [], color="tab:blue", linewidth=1.0, label="current objective")
     best_obj_line, = ax_obj.plot([], [], color="tab:red", linewidth=1.4, linestyle="--", label="best feasible")
     if ip_solution and ip_solution.objective is not None:
@@ -845,20 +848,16 @@ def animate_annealing(
     ax_viol.set_ylabel("violations")
     ax_viol.set_ylim(0, max(violations + [1]) + 1)
 
-    lines = ax_obj.get_lines() + ax_viol.get_lines()
-    labels = [line.get_label() for line in lines]
-    ax_obj.legend(lines, labels, loc="upper right")
+    handles, labels = ax_obj.get_legend_handles_labels()
+    viol_handles, viol_labels = ax_viol.get_legend_handles_labels()
+    ax_obj.legend(handles + viol_handles, labels + viol_labels, loc="upper right")
 
     ax_temp.set_yscale("log")
     ax_temp.set_xlim(0, max(iters) if iters else 1)
     positive_temps = [t for t in temps if t > 0]
     ax_temp.set_ylim(max(min(positive_temps), 1e-12), max(positive_temps) * 1.1)
     temp_line, = ax_temp.plot([], [], color="tab:orange", label="T")
-    ax_prob = ax_temp.twinx()
-    ax_prob.set_ylim(0, 1.05)
-    ax_prob.set_ylabel("P(accept worse)")
-    p_scatter = ax_prob.scatter([], [], s=4, color="tab:purple", alpha=0.4)
-    ax_temp.set_title("Temperature (log) + acceptance prob. of uphill moves")
+    ax_temp.set_title("Temperature (log)")
     ax_temp.set_xlabel("iteration")
     ax_temp.legend(loc="upper right")
 
@@ -898,14 +897,6 @@ def animate_annealing(
         violation_line.set_data(iters[:upto + 1], violations[:upto + 1])
         temp_line.set_data(iters[:upto + 1], temps[:upto + 1])
 
-        points = [
-            (iters[i], uphill_acceptance[i])
-            for i in range(upto + 1)
-            if not math.isnan(uphill_acceptance[i])
-        ]
-        if points:
-            p_scatter.set_offsets(np.array(points))
-
         best_label = "none" if step.best_objective is None else f"{step.best_objective:.3f}"
         ax_assign.set_title(
             f"iter {step.iteration}/{history[-1].iteration}   "
@@ -921,7 +912,6 @@ def animate_annealing(
             best_obj_line,
             violation_line,
             temp_line,
-            p_scatter,
         )
 
     anim = FuncAnimation(fig, update, frames=n_frames, interval=args.interval, blit=False, repeat=False)

@@ -1,4 +1,4 @@
-"""Test harness for real_solve1.py."""
+"""Run real_solve1.py on the default UW-style scheduling dataset."""
 
 from __future__ import annotations
 
@@ -12,17 +12,8 @@ from real_solve1 import solve
 from solution import Solution, validate2
 
 
-DEFAULT_DATA_DIR = Path("/Users/haris/Downloads/synthetic_scheduling_data")
-
-SCENARIOS = [
-    "01_small_feasible",
-    "02_medium_feasible",
-    "03_tight_feasible",
-    "04_room_bottleneck_optional_drop",
-    "05_infeasible_required_course",
-    "06_large_stress",
-    "07_lp_relaxation_trap",
-]
+DEFAULT_DATA_DIR = Path("data/synthetic_scheduling_data")
+DEFAULT_SCENARIO = "uw_math_autumn_2026_seed_381"
 
 
 def print_schedule(sol: Solution, data) -> None:
@@ -36,7 +27,7 @@ def print_schedule(sol: Solution, data) -> None:
         )
 
 
-def run_scenario(scenario_dir: Path, show_schedule: bool = False) -> bool:
+def run_scenario(scenario_dir: Path, show_schedule: bool = True) -> bool:
     name = scenario_dir.name
     data = load_scenario(scenario_dir)
 
@@ -85,14 +76,31 @@ def run_scenario(scenario_dir: Path, show_schedule: bool = False) -> bool:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Run real_solve1.py across scenarios.")
+    parser = argparse.ArgumentParser(description="Run real_solve1.py on a UW-style scenario.")
     parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
-    parser.add_argument("--scenario", help="run only this scenario, e.g. 01_small_feasible")
-    parser.add_argument("--show-schedule", action="store_true")
+    parser.add_argument(
+        "--scenario",
+        default=DEFAULT_SCENARIO,
+        help=f"scenario directory name (default: {DEFAULT_SCENARIO})",
+    )
+    parser.add_argument(
+        "--show-schedule",
+        dest="show_schedule",
+        action="store_true",
+        default=True,
+        help="show the final schedule after solving (default)",
+    )
+    parser.add_argument(
+        "--hide-schedule",
+        "--no-show-schedule",
+        dest="show_schedule",
+        action="store_false",
+        help="hide the final schedule and print only the summary",
+    )
     args = parser.parse_args()
 
     data_dir = Path(args.data_dir)
-    scenarios = [args.scenario] if args.scenario else SCENARIOS
+    scenarios = [args.scenario]
 
     results: dict[str, bool] = {}
     for scenario in scenarios:

@@ -36,6 +36,7 @@ class TA:
     ta_id: str
     name: str
     max_load: int
+    priority_mode: str = "balanced"
 
 
 @dataclass(frozen=True)
@@ -157,6 +158,7 @@ def load_scenario(scenario_dir: str | Path) -> ScenarioData:
             ta_id=r["professor_id"],
             name=r["professor_name"],
             max_load=int(r["max_load"]),
+            priority_mode=r.get("priority_mode", "balanced") or "balanced",
         )
         for r in _read_csv(p / "professors.csv")
     ]

@@ -54,6 +54,16 @@ ROOM_WEIGHTS: dict[int, float] = {
     1: 0.15,
 }
 
+# 5. Professor preference mode from professors.csv.
+# interest_first professors care more about course/topic fit; time_first
+# professors care more about the teaching time. The multipliers only affect
+# personal preference components, not department priority or room suitability.
+PRIORITY_MODE_WEIGHTS: dict[str, tuple[float, float]] = {
+    "interest_first": (1.50, 0.75),  # (course preference multiplier, time multiplier)
+    "time_first": (0.75, 1.50),
+    "balanced": (1.00, 1.00),
+}
+
 
 def course_pref_weight(prof_id: str, course_id: str, data: ScenarioData) -> float:
     pref = data.pref_by_pair.get((prof_id, course_id))
@@ -76,11 +86,17 @@ def room_weight(course_id: str, data: ScenarioData) -> float:
     return ROOM_WEIGHTS.get(score, 0.0)
 
 
+def priority_mode_weights(prof_id: str, data: ScenarioData) -> tuple[float, float]:
+    prof = data.ta_by_id[prof_id]
+    return PRIORITY_MODE_WEIGHTS.get(prof.priority_mode, PRIORITY_MODE_WEIGHTS["balanced"])
+
+
 def assignment_score(prof_id: str, course_id: str, ts_id: str, data: ScenarioData) -> float:
     """Objective contribution for assigning one professor/course/timeslot triple."""
+    course_multiplier, time_multiplier = priority_mode_weights(prof_id, data)
     return (
-        course_pref_weight(prof_id, course_id, data)
-        + time_weight(prof_id, ts_id, data)
+        course_multiplier * course_pref_weight(prof_id, course_id, data)
+        + time_multiplier * time_weight(prof_id, ts_id, data)
         + course_priority_weight(course_id, data)
         + room_weight(course_id, data)
     )
@@ -110,7 +126,7 @@ def solve(data: ScenarioData) -> Solution:
             name=f"required_{course_id}",
         )
 
-    # Optional courses may be taught at most once.
+    # Optional courses may be taught at most once. (lowkey don't need this constraint)
     for course_id in data.optional_course_ids:
         m.addConstr(
             gp.quicksum(x[triple] for triple in by_course.get(course_id, [])) <= 1,

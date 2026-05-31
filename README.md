@@ -35,8 +35,10 @@ Preference weights:
 |---------------|----------------------------------------------------------------|
 | `data.py`     | Load a scenario into TAs / Courses / Preferences + indexes.    |
 | `solution.py` | `Solution` dataclass, hard-constraint validator, pref weights. |
-| `solve.py`    | **You implement `solve(data) -> Solution` here.**              |
-| `run.py`      | Runs `solve()` on one or all scenarios, validates, reports.    |
+| `solve.py`    | Original Gurobi IP for the step-1 professor/class problem.     |
+| `run.py`      | Runs the original IP `solve()` and validates the result.       |
+| `solve_min_cost_flow.py` | Min-cost max-flow solver for the same step-1 problem. |
+| `run_min_cost_flow.py` | Runs the min-cost flow solver on generated scenarios. |
 
 ## Setup
 
@@ -57,38 +59,38 @@ python3 run.py
 python3 run.py --data-dir /path/to/synthetic_scheduling_data
 ```
 
-## Matching simulation
+## Min-Cost Flow for the Smaller Professor/Class Subproblem
 
-When the full IP has too many variables, you can compare lighter matching
-heuristics without Gurobi:
+`solve_min_cost_flow.py` solves the same smaller professor-to-class assignment
+problem as `solve.py`, but with min-cost max-flow instead of a Gurobi IP. The
+network is:
 
-```bash
-python3 matching_simulation.py --trials 20 --professors 35 --courses 55 --timeslots 8
+```text
+source -> professors -> classes -> sink
 ```
 
-Algorithms included:
-
-| algorithm             | idea |
-|-----------------------|------|
-| `greedy`              | take the highest-scoring feasible professor/course/timeslot contract first |
-| `required_greedy`     | run score-greedy on required courses first, then optional courses |
-| `scarcity_greedy`     | cover required courses with the fewest feasible contracts first |
-| `deferred_acceptance` | course-proposing stable matching over professor/timeslot contracts |
-| `local_search`        | start from scarcity-greedy and try score-improving replacements |
-
-Useful knobs:
+Run it on the generated UW-style data:
 
 ```bash
-python3 matching_simulation.py \
-  --trials 10 \
-  --required-weight 100 \
-  --optional-weight 0.5 \
-  --qualification-prob 0.18 \
-  --availability-prob 0.45
+python3 run_min_cost_flow.py \
+  --data-dir data/synthetic_scheduling_data \
+  --scenario uw_math_autumn_2026_seed_381
 ```
 
-The output reports objective, required-course coverage, optional coverage,
-constraint violations, and runtime for each algorithm.
+Run a synthetic large professor/class test:
+
+```bash
+python3 test_solve_min_cost_flow_large.py
+```
+
+Scale it up when you want a stress test:
+
+```bash
+python3 test_solve_min_cost_flow_large.py \
+  --professors 800 \
+  --courses 3000 \
+  --qualification-prob 0.04
+```
 
 ## UW-style randomized scenarios
 
@@ -103,11 +105,11 @@ python3 generate_uw_dataset.py --seed 381 --count 5
 Run the current professor-course-timeslot solver on one generated scenario:
 
 ```bash
-python3 run_real_solve1.py \
-  --data-dir data/synthetic_scheduling_data \
-  --scenario uw_math_autumn_2026_seed_381 \
-  --show-schedule
+python3 run_real_solve1.py
 ```
+
+By default this runs `data/synthetic_scheduling_data/uw_math_autumn_2026_seed_381`
+and prints the final schedule. Use `--hide-schedule` for summary-only output.
 
 Each generated scenario keeps the same course sections and changes only the
 synthetic schedule and preference layer by seed.
@@ -118,14 +120,6 @@ the size-limited Gurobi IP path:
 ```bash
 python3 generate_uw_dataset.py --seed 381 --stress --scale 25
 python3 run_real_solve1.py \
-  --data-dir data/synthetic_scheduling_data \
-  --scenario uw_math_autumn_2026_stress_seed_381_scale_25
-```
-
-Run the CSV-backed matching harness on that same stress scenario:
-
-```bash
-python3 run_large_stress_test.py \
   --data-dir data/synthetic_scheduling_data \
   --scenario uw_math_autumn_2026_stress_seed_381_scale_25
 ```
